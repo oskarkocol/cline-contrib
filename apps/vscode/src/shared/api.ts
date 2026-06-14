@@ -1675,6 +1675,7 @@ export const geminiModels = {
 		supportsPromptCache: true,
 		inputPrice: 1.5,
 		outputPrice: 9.0,
+		cacheWritesPrice: 0.083,
 		cacheReadsPrice: 0.15,
 		supportsReasoning: true,
 		thinkingConfig: {
@@ -1701,6 +1702,7 @@ export const geminiModels = {
 				contextWindow: 200000,
 				inputPrice: 2.0,
 				outputPrice: 12.0,
+				cacheWritesPrice: 0.375,
 				cacheReadsPrice: 0.2,
 			},
 			{
@@ -1728,6 +1730,7 @@ export const geminiModels = {
 				contextWindow: 200000,
 				inputPrice: 2.0,
 				outputPrice: 12.0,
+				cacheWritesPrice: 0.375,
 				cacheReadsPrice: 0.2,
 			},
 			{
@@ -1746,7 +1749,7 @@ export const geminiModels = {
 		supportsGlobalEndpoint: true,
 		inputPrice: 0.5,
 		outputPrice: 3.0,
-		cacheWritesPrice: 0.05,
+		cacheWritesPrice: 0.083,
 		supportsReasoning: true,
 		thinkingConfig: {
 			geminiThinkingLevel: "low",
@@ -1755,15 +1758,17 @@ export const geminiModels = {
 		tiers: [
 			{
 				contextWindow: 200000,
-				inputPrice: 0.3,
-				outputPrice: 2.5,
-				cacheReadsPrice: 0.03,
+				inputPrice: 0.5,
+				outputPrice: 3.0,
+				cacheWritesPrice: 0.083,
+				cacheReadsPrice: 0.05,
 			},
 			{
 				contextWindow: Number.POSITIVE_INFINITY,
-				inputPrice: 0.3,
-				outputPrice: 2.5,
-				cacheReadsPrice: 0.03,
+				inputPrice: 0.5,
+				outputPrice: 3.0,
+				cacheWritesPrice: 0.083,
+				cacheReadsPrice: 0.05,
 			},
 		],
 	},
@@ -1783,7 +1788,8 @@ export const geminiModels = {
 				contextWindow: 200000,
 				inputPrice: 1.25,
 				outputPrice: 10,
-				cacheReadsPrice: 0.31,
+				cacheWritesPrice: 0.375,
+				cacheReadsPrice: 0.125,
 			},
 			{
 				contextWindow: Number.POSITIVE_INFINITY,
@@ -1814,7 +1820,8 @@ export const geminiModels = {
 		supportsPromptCache: true,
 		inputPrice: 0.3,
 		outputPrice: 2.5,
-		cacheReadsPrice: 0.075,
+		cacheWritesPrice: 0.083,
+		cacheReadsPrice: 0.03,
 		thinkingConfig: {
 			maxBudget: 24576,
 			outputPrice: 3.5,
@@ -1828,7 +1835,7 @@ export const geminiModels = {
 		inputPrice: 0.1,
 		outputPrice: 0.4,
 		cacheReadsPrice: 0.025,
-		cacheWritesPrice: 1.0,
+		cacheWritesPrice: 0.083,
 	},
 	"gemini-2.0-flash-lite-preview-02-05": {
 		maxTokens: 8192,
