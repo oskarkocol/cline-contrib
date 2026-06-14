@@ -4990,7 +4990,7 @@ export const internationalZAiModels = {
 		supportsImages: false,
 		supportsPromptCache: true,
 		inputPrice: 0.2,
-		outputPrice: 1.2,
+		outputPrice: 1.1,
 		cacheWritesPrice: 0,
 		cacheReadsPrice: 0.03,
 		description:
