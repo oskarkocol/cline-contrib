@@ -3343,8 +3343,8 @@ export const mistralModels = {
 		contextWindow: 128_000,
 		supportsImages: true,
 		supportsPromptCache: false,
-		inputPrice: 0.1,
-		outputPrice: 0.3,
+		inputPrice: 0.06,
+		outputPrice: 0.18,
 	},
 	"mistral-medium-latest": {
 		maxTokens: 128_000,
@@ -3375,8 +3375,8 @@ export const mistralModels = {
 		contextWindow: 128_000,
 		supportsImages: false,
 		supportsPromptCache: false,
-		inputPrice: 0.15,
-		outputPrice: 0.15,
+		inputPrice: 0.3,
+		outputPrice: 0.3,
 	},
 	"open-codestral-mamba": {
 		maxTokens: 256_000,
