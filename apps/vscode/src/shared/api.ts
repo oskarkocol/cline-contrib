@@ -4212,8 +4212,8 @@ export const cerebrasModels = {
 		supportsImages: false,
 		supportsPromptCache: false,
 		temperature: 0.9,
-		inputPrice: 0,
-		outputPrice: 0,
+		inputPrice: 2.25,
+		outputPrice: 2.75,
 		description:
 			"Highly capable general-purpose model on Cerebras (up to 1,000 tokens/s), competitive with leading proprietary models on coding tasks.",
 	},
@@ -4222,8 +4222,8 @@ export const cerebrasModels = {
 		contextWindow: 128000,
 		supportsImages: false,
 		supportsPromptCache: false,
-		inputPrice: 0,
-		outputPrice: 0,
+		inputPrice: 0.35,
+		outputPrice: 0.75,
 		description: "Intelligent general purpose model with 3,000 tokens/s",
 	},
 	"qwen-3-235b-a22b-instruct-2507": {
