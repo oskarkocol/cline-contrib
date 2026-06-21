@@ -5405,7 +5405,7 @@ export const minimaxModels = {
 		supportsReasoning: true,
 		inputPrice: 0.3,
 		outputPrice: 1.2,
-		cacheWritesPrice: 0.375,
+		cacheWritesPrice: 0,
 		cacheReadsPrice: 0.06,
 		description: "Latest flagship model with enhanced reasoning and coding",
 	},
@@ -5417,7 +5417,7 @@ export const minimaxModels = {
 		supportsReasoning: true,
 		inputPrice: 0.6,
 		outputPrice: 2.4,
-		cacheWritesPrice: 0.375,
+		cacheWritesPrice: 0,
 		cacheReadsPrice: 0.06,
 		description: "High-speed version of M2.7 for low-latency scenarios",
 	},
@@ -5429,7 +5429,7 @@ export const minimaxModels = {
 		supportsReasoning: true,
 		inputPrice: 0.3,
 		outputPrice: 1.2,
-		cacheWritesPrice: 0.375,
+		cacheWritesPrice: 0,
 		cacheReadsPrice: 0.03,
 	},
 	"MiniMax-M2.5-highspeed": {
@@ -5440,7 +5440,7 @@ export const minimaxModels = {
 		supportsReasoning: true,
 		inputPrice: 0.6,
 		outputPrice: 2.4,
-		cacheWritesPrice: 0.375,
+		cacheWritesPrice: 0,
 		cacheReadsPrice: 0.03,
 	},
 	"MiniMax-M2.1": {
@@ -5450,7 +5450,7 @@ export const minimaxModels = {
 		supportsPromptCache: true,
 		inputPrice: 0.3,
 		outputPrice: 1.2,
-		cacheWritesPrice: 0.375,
+		cacheWritesPrice: 0,
 		cacheReadsPrice: 0.03,
 	},
 	"MiniMax-M2.1-lightning": {
@@ -5460,7 +5460,7 @@ export const minimaxModels = {
 		supportsPromptCache: true,
 		inputPrice: 0.6,
 		outputPrice: 2.4,
-		cacheWritesPrice: 0.375,
+		cacheWritesPrice: 0,
 		cacheReadsPrice: 0.03,
 	},
 	"MiniMax-M2": {
