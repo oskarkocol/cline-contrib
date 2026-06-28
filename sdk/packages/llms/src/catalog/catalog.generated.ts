@@ -4601,7 +4601,7 @@ export const GENERATED_PROVIDER_MODELS: {
 				pricing: {
 					input: 0.075,
 					output: 0.3,
-					cacheRead: 0.037,
+					cacheRead: 0,
 					cacheWrite: 0,
 				},
 				releaseDate: "2025-10-29",
