@@ -10214,9 +10214,9 @@ export const GENERATED_PROVIDER_MODELS: {
 				maxTokens: 131072,
 				capabilities: ["tools", "reasoning", "temperature", "prompt-cache"],
 				pricing: {
-					input: 0.6,
+					input: 0.3,
 					output: 2.4,
-					cacheRead: 0.06,
+					cacheRead: 0.03,
 					cacheWrite: 0.375,
 				},
 				releaseDate: "2026-02-13",
@@ -10248,8 +10248,8 @@ export const GENERATED_PROVIDER_MODELS: {
 				pricing: {
 					input: 0.3,
 					output: 1.2,
-					cacheRead: 0,
-					cacheWrite: 0,
+					cacheRead: 0.03,
+					cacheWrite: 0.375,
 				},
 				releaseDate: "2025-12-23",
 				family: "minimax",
@@ -10264,8 +10264,8 @@ export const GENERATED_PROVIDER_MODELS: {
 				pricing: {
 					input: 0.3,
 					output: 1.2,
-					cacheRead: 0,
-					cacheWrite: 0,
+					cacheRead: 0.03,
+					cacheWrite: 0.375,
 				},
 				releaseDate: "2025-10-27",
 				family: "minimax",
