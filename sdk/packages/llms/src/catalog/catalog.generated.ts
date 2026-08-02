@@ -53753,12 +53753,13 @@ export const GENERATED_PROVIDER_MODELS: {
         "files",
         "tools",
         "reasoning",
-        "structured_output"
+        "structured_output",
+        "prompt-cache"
       ],
       "pricing": {
         "input": 30,
         "output": 180,
-        "cacheRead": 0,
+        "cacheRead": 3,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-23",
