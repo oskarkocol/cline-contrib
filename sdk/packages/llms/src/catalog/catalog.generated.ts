@@ -48621,12 +48621,13 @@ export const GENERATED_PROVIDER_MODELS: {
       "capabilities": [
         "tools",
         "reasoning",
-        "structured_output"
+        "structured_output",
+        "prompt-cache"
       ],
       "pricing": {
         "input": 3,
         "output": 15,
-        "cacheRead": 0,
+        "cacheRead": 3,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-16",
