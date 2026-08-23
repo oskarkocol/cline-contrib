@@ -19209,7 +19209,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
+        "temperature",
+        "prompt-cache"
       ],
       "reasoningOptions": [
         {
@@ -19224,7 +19225,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.35,
         "output": 0.75,
-        "cacheRead": 0,
+        "cacheRead": 0.35,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
@@ -83205,14 +83206,15 @@ export const GENERATED_PROVIDER_MODELS: {
       "capabilities": [
         "tools",
         "reasoning",
-        "temperature"
+        "temperature",
+        "prompt-cache"
       ],
       "reasoningOptions": [],
       "pricing": {
         "input": 0.3,
         "output": 1.2,
-        "cacheRead": 0,
-        "cacheWrite": 0
+        "cacheRead": 0.03,
+        "cacheWrite": 0.375
       },
       "releaseDate": "2025-10-27",
       "family": "minimax"
