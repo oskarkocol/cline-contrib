@@ -19568,7 +19568,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
+        "temperature",
+        "prompt-cache"
       ],
       "reasoningOptions": [
         {
@@ -19583,7 +19584,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.35,
         "output": 0.75,
-        "cacheRead": 0,
+        "cacheRead": 0.35,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
