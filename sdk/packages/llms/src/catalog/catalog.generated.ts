@@ -31872,11 +31872,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.4,
-        "output": 4.4,
-        "cacheRead": 0.26,
-        "cacheWrite": 0
-      },
+        "input": 0.95,
+        "output": 3.4,
+        "cacheRead": 0.2,
+        "cacheWrite": 0},
       "releaseDate": "2026-08-14",
       "family": "glm"
     },
@@ -32037,11 +32036,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2.85,
-        "output": 14.25,
+        "input": 2.55,
+        "output": 12.95,
         "cacheRead": 0.285,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-07-16",
       "family": "kimi-k3"
     },
