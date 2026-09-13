@@ -22036,11 +22036,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.29,
-        "output": 0.58,
+        "input": 0.25,
+        "output": 0.5,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-08-26",
       "family": "glm"
     },
@@ -22069,11 +22068,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.46,
-        "output": 3.48,
+        "input": 0.4,
+        "output": 3,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-08-14",
       "family": "qwen"
     },
@@ -22130,11 +22128,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.54,
-        "output": 4.84,
+        "input": 1.4,
+        "output": 4.4,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-06-13",
       "family": "glm"
     },
@@ -22154,11 +22151,10 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.275,
-        "output": 0.55,
+        "input": 0.25,
+        "output": 0.5,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-04-02",
       "family": "gemma",
       "modalities": {
@@ -22187,11 +22183,10 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.33,
-        "output": 0.33,
+        "input": 0.3,
+        "output": 0.3,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2025-10-01",
       "family": "mistral-small"
     }
