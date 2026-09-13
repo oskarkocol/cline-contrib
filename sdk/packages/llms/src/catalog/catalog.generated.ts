@@ -103712,14 +103712,13 @@ export const GENERATED_PROVIDER_MODELS: {
         "images",
         "tools",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
         "input": 0.15,
         "output": 0.55,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.03,
+        "cacheWrite": 0},
       "releaseDate": "2025-09-23",
       "family": "qwen"
     },
