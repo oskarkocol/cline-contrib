@@ -17067,8 +17067,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -17082,9 +17082,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.03,
+        "cacheWrite": 0},
       "releaseDate": "2026-08-26",
       "family": "glm"
     },
@@ -17131,8 +17130,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -17147,9 +17146,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2.1,
         "output": 6.6,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.21,
+        "cacheWrite": 0},
       "releaseDate": "2026-08-14",
       "family": "glm"
     },
@@ -17163,8 +17161,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -17179,9 +17177,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.32,
         "output": 3.96,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.132,
+        "cacheWrite": 0},
       "releaseDate": "2026-08-12",
       "family": "deepseek-thinking"
     },
@@ -17269,8 +17266,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -17285,9 +17282,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 3,
         "output": 15,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.3,
+        "cacheWrite": 0},
       "releaseDate": "2026-07-16",
       "family": "kimi-k3"
     },
@@ -17302,8 +17298,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -17321,9 +17317,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1,
         "output": 4.05,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.17,
+        "cacheWrite": 0},
       "releaseDate": "2026-07-15",
       "family": "ling"
     },
@@ -17354,9 +17349,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.4,
         "output": 4.4,
-        "cacheRead": 0.3,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.14,
+        "cacheWrite": 0},
       "releaseDate": "2026-06-13",
       "family": "glm"
     },
@@ -17658,8 +17652,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -17677,9 +17671,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.1,
         "output": 0.5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.1,
+        "cacheWrite": 0},
       "releaseDate": "2025-08-05",
       "family": "gpt-oss"
     }
