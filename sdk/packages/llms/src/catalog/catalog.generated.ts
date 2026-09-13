@@ -72093,9 +72093,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.9,
         "output": 3,
-        "cacheRead": 0.27,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.17,
+        "cacheWrite": 0},
       "releaseDate": "2026-06-13",
       "family": "glm"
     },
@@ -72150,9 +72149,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.7,
         "output": 3.5,
-        "cacheRead": 0.2,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.16,
+        "cacheWrite": 0},
       "releaseDate": "2026-04-21",
       "family": "kimi-k2"
     },
