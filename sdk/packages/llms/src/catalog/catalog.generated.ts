@@ -62828,11 +62828,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 10,
-        "output": 50,
-        "cacheRead": 1,
-        "cacheWrite": 12.5
-      },
+        "input": 5,
+        "output": 25,
+        "cacheRead": 0.5,
+        "cacheWrite": 6.25},
       "releaseDate": "2026-09-04",
       "family": "gpt-astra"
     },
@@ -62863,11 +62862,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 10,
-        "output": 50,
-        "cacheRead": 1,
-        "cacheWrite": 12.5
-      },
+        "input": 5,
+        "output": 25,
+        "cacheRead": 0.5,
+        "cacheWrite": 6.25},
       "releaseDate": "2026-09-04",
       "family": "gpt"
     },
@@ -63486,11 +63484,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.425,
-        "output": 2.55,
+        "input": 0.15,
+        "output": 2,
         "cacheRead": 0.085,
-        "cacheWrite": 0.53125
-      },
+        "cacheWrite": 0.53125},
       "releaseDate": "2026-08-14",
       "family": "qwen"
     },
@@ -63757,11 +63754,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.08,
-        "output": 0.2,
+        "input": 0.065,
+        "output": 0.18,
         "cacheRead": 0.04,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-08-11",
       "family": "nemotron"
     },
@@ -64374,11 +64370,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 3,
-        "output": 15,
-        "cacheRead": 0.3,
-        "cacheWrite": 0
-      },
+        "input": 2.1,
+        "output": 10.95,
+        "cacheRead": 0.23,
+        "cacheWrite": 0},
       "releaseDate": "2026-07-16",
       "family": "kimi-k3"
     },
@@ -64552,11 +64547,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2,
-        "output": 1.2,
-        "cacheRead": 0.02,
-        "cacheWrite": 0.25
-      },
+        "input": 0.1,
+        "output": 0.6,
+        "cacheRead": 0.01,
+        "cacheWrite": 0.125},
       "releaseDate": "2026-07-09",
       "family": "gpt-luna"
     },
@@ -64588,11 +64582,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2,
-        "output": 1.2,
-        "cacheRead": 0.02,
-        "cacheWrite": 0.25
-      },
+        "input": 0.1,
+        "output": 0.6,
+        "cacheRead": 0.01,
+        "cacheWrite": 0.125},
       "releaseDate": "2026-07-09",
       "family": "gpt-luna"
     },
@@ -64696,11 +64689,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2,
-        "output": 12,
-        "cacheRead": 0.2,
-        "cacheWrite": 2.5
-      },
+        "input": 1,
+        "output": 6,
+        "cacheRead": 0.1,
+        "cacheWrite": 1.25},
       "releaseDate": "2026-07-09",
       "family": "gpt-terra"
     },
@@ -64732,11 +64724,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2,
-        "output": 12,
-        "cacheRead": 0.2,
-        "cacheWrite": 2.5
-      },
+        "input": 1,
+        "output": 6,
+        "cacheRead": 0.1,
+        "cacheWrite": 1.25},
       "releaseDate": "2026-07-09",
       "family": "gpt-terra"
     },
@@ -65108,11 +65099,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.95,
-        "output": 4,
-        "cacheRead": 0.19,
-        "cacheWrite": 0
-      },
+        "input": 0.68,
+        "output": 3.4,
+        "cacheRead": 0.136,
+        "cacheWrite": 0},
       "releaseDate": "2026-06-12",
       "family": "kimi-k2"
     },
@@ -65274,9 +65264,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.32,
         "output": 1.28,
-        "cacheRead": 0.032,
-        "cacheWrite": 0.4
-      },
+        "cacheRead": 0.064,
+        "cacheWrite": 0.4},
       "releaseDate": "2026-06-02",
       "family": "qwen"
     },
@@ -65305,11 +65294,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.3,
-        "output": 1.2,
-        "cacheRead": 0.06,
-        "cacheWrite": 0
-      },
+        "input": 0.23,
+        "output": 0.96,
+        "cacheRead": 0.05,
+        "cacheWrite": 0},
       "releaseDate": "2026-06-01",
       "family": "minimax"
     },
@@ -65436,11 +65424,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.25,
-        "output": 3.75,
-        "cacheRead": 0.125,
-        "cacheWrite": 1.5625
-      },
+        "input": 1.475,
+        "output": 4.425,
+        "cacheRead": 0.295,
+        "cacheWrite": 1.84375},
       "releaseDate": "2026-05-21",
       "family": "qwen"
     },
@@ -66063,11 +66050,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 5,
-        "output": 30,
-        "cacheRead": 0.5,
-        "cacheWrite": 0
-      },
+        "input": 2.5,
+        "output": 15,
+        "cacheRead": 0.25,
+        "cacheWrite": 0},
       "releaseDate": "2026-04-23",
       "family": "gpt"
     },
@@ -66095,11 +66081,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 30,
-        "output": 180,
+        "input": 15,
+        "output": 90,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-04-23",
       "family": "gpt-pro"
     },
@@ -66115,8 +66100,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -66127,11 +66112,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.45,
-        "output": 2.7,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "input": 0.3,
+        "output": 2,
+        "cacheRead": 0.03,
+        "cacheWrite": 0},
       "releaseDate": "2026-04-22",
       "family": "qwen"
     },
@@ -66366,11 +66350,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
-        "output": 0.9,
+        "input": 0.05,
+        "output": 0.7,
         "cacheRead": 0.05,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-04-17",
       "family": "qwen"
     },
@@ -66849,11 +66832,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.75,
-        "output": 4.5,
-        "cacheRead": 0.075,
-        "cacheWrite": 0
-      },
+        "input": 0.375,
+        "output": 2.25,
+        "cacheRead": 0.0375,
+        "cacheWrite": 0},
       "releaseDate": "2026-03-17",
       "family": "gpt-mini"
     },
@@ -66884,11 +66866,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2,
-        "output": 1.25,
-        "cacheRead": 0.02,
-        "cacheWrite": 0
-      },
+        "input": 0.1,
+        "output": 0.625,
+        "cacheRead": 0.01,
+        "cacheWrite": 0},
       "releaseDate": "2026-03-17",
       "family": "gpt-nano"
     },
@@ -66976,11 +66957,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.085,
-        "output": 0.4,
+        "input": 0.08,
+        "output": 0.45,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-03-11",
       "family": "nemotron"
     },
@@ -67042,11 +67022,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2.5,
-        "output": 15,
-        "cacheRead": 0.25,
-        "cacheWrite": 0
-      },
+        "input": 1.25,
+        "output": 7.5,
+        "cacheRead": 0.125,
+        "cacheWrite": 0},
       "releaseDate": "2026-03-05",
       "family": "gpt"
     },
@@ -67074,11 +67053,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 30,
-        "output": 180,
+        "input": 15,
+        "output": 90,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-03-05",
       "family": "gpt-pro"
     },
@@ -67312,11 +67290,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1625,
-        "output": 1.3,
+        "input": 0.08,
+        "output": 0.75,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-02-23",
       "family": "qwen"
     },
@@ -67344,11 +67321,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
-        "output": 0.15,
+        "input": 0.08,
+        "output": 0.13,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-02-23",
       "family": "qwen"
     },
@@ -67672,11 +67648,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.3,
-        "output": 1.2,
+        "input": 0.27,
+        "output": 0.95,
         "cacheRead": 0.03,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-02-12",
       "family": "minimax"
     },
@@ -67821,14 +67796,13 @@ export const GENERATED_PROVIDER_MODELS: {
       "capabilities": [
         "tools",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
-        "input": 0.3,
-        "output": 1.5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "input": 0.12,
+        "output": 0.8,
+        "cacheRead": 0.07,
+        "cacheWrite": 0},
       "releaseDate": "2026-02-03",
       "family": "qwen"
     },
@@ -67922,8 +67896,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -67934,11 +67908,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.0605,
+        "input": 0.06,
         "output": 0.4,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.01,
+        "cacheWrite": 0},
       "releaseDate": "2026-01-19",
       "family": "glm-flash"
     },
@@ -67966,11 +67939,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.6,
-        "output": 3,
-        "cacheRead": 0.1,
-        "cacheWrite": 0
-      },
+        "input": 0.45,
+        "output": 2.25,
+        "cacheRead": 0.07,
+        "cacheWrite": 0},
       "releaseDate": "2026-01",
       "family": "kimi-k2"
     },
@@ -68172,9 +68144,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.05,
         "output": 0.2,
-        "cacheRead": 0.03,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.025,
+        "cacheWrite": 0},
       "releaseDate": "2025-12-15",
       "family": "nemotron"
     },
@@ -68205,11 +68176,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.75,
-        "output": 14,
-        "cacheRead": 0.175,
-        "cacheWrite": 0
-      },
+        "input": 0.875,
+        "output": 7,
+        "cacheRead": 0.0875,
+        "cacheWrite": 0},
       "releaseDate": "2025-12-11",
       "family": "gpt"
     },
@@ -68581,11 +68551,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.25,
-        "output": 10,
-        "cacheRead": 0.125,
-        "cacheWrite": 0
-      },
+        "input": 0.625,
+        "output": 5,
+        "cacheRead": 0.0625,
+        "cacheWrite": 0},
       "releaseDate": "2025-11-13",
       "family": "gpt"
     },
@@ -69143,14 +69112,13 @@ export const GENERATED_PROVIDER_MODELS: {
         "images",
         "tools",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
-        "input": 0.26,
-        "output": 1.04,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "input": 0.2,
+        "output": 0.88,
+        "cacheRead": 0.11,
+        "cacheWrite": 0},
       "releaseDate": "2025-09-23",
       "family": "qwen"
     },
@@ -69267,11 +69235,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.0975,
-        "output": 0.78,
+        "input": 0.09,
+        "output": 1.1,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2025-09",
       "family": "qwen"
     },
@@ -69569,11 +69536,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.27,
-        "output": 1,
-        "cacheRead": 0.135,
-        "cacheWrite": 0
-      },
+        "input": 0.25,
+        "output": 0.95,
+        "cacheRead": 0.13,
+        "cacheWrite": 0},
       "releaseDate": "2025-08-21",
       "family": "deepseek"
     },
@@ -69691,11 +69657,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.25,
-        "output": 2,
-        "cacheRead": 0.025,
-        "cacheWrite": 0
-      },
+        "input": 0.125,
+        "output": 1,
+        "cacheRead": 0.0125,
+        "cacheWrite": 0},
       "releaseDate": "2025-08-07",
       "family": "gpt-mini"
     },
@@ -69725,11 +69690,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.05,
-        "output": 0.4,
-        "cacheRead": 0.005,
-        "cacheWrite": 0
-      },
+        "input": 0.025,
+        "output": 0.2,
+        "cacheRead": 0.0025,
+        "cacheWrite": 0},
       "releaseDate": "2025-08-07",
       "family": "gpt-nano"
     },
@@ -69990,11 +69954,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.975,
-        "output": 4.875,
+        "input": 0.22,
+        "output": 1.8,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2025-07-23",
       "family": "qwen"
     },
@@ -70105,11 +70068,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.3,
-        "output": 2.5,
-        "cacheRead": 0.03,
-        "cacheWrite": 0.083333
-      },
+        "input": 0.15,
+        "output": 1.25,
+        "cacheRead": 0.015,
+        "cacheWrite": 0.041667},
       "releaseDate": "2025-06-17",
       "family": "gemini-flash",
       "modalities": {
@@ -70151,11 +70113,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
-        "output": 0.4,
-        "cacheRead": 0.01,
-        "cacheWrite": 0.083333
-      },
+        "input": 0.05,
+        "output": 0.2,
+        "cacheRead": 0.005,
+        "cacheWrite": 0.041667},
       "releaseDate": "2025-06-17",
       "family": "gemini-flash-lite",
       "modalities": {
@@ -70196,11 +70157,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.25,
-        "output": 10,
-        "cacheRead": 0.125,
-        "cacheWrite": 0.375
-      },
+        "input": 0.625,
+        "output": 5,
+        "cacheRead": 0.0625,
+        "cacheWrite": 0.1875},
       "releaseDate": "2025-06-17",
       "family": "gemini-pro",
       "modalities": {
@@ -70300,11 +70260,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.25,
-        "output": 10,
-        "cacheRead": 0.125,
-        "cacheWrite": 0.375
-      },
+        "input": 0.625,
+        "output": 5,
+        "cacheRead": 0.0625,
+        "cacheWrite": 0.1875},
       "releaseDate": "2025-06-05",
       "family": "gemini",
       "modalities": {
@@ -70341,11 +70300,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.7,
-        "output": 2.5,
+        "input": 0.5,
+        "output": 2.15,
         "cacheRead": 0.35,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2025-05-28",
       "family": "deepseek"
     },
@@ -70438,11 +70396,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.25,
-        "output": 10,
-        "cacheRead": 0.125,
-        "cacheWrite": 0.375
-      },
+        "input": 0.625,
+        "output": 5,
+        "cacheRead": 0.0625,
+        "cacheWrite": 0.1875},
       "releaseDate": "2025-05-07",
       "family": "gemini",
       "modalities": {
@@ -70503,11 +70460,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2275,
-        "output": 0.91,
+        "input": 0.1,
+        "output": 0.22,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2025-04-28",
       "family": "qwen"
     },
@@ -70533,11 +70489,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.13,
-        "output": 0.52,
+        "input": 0.12,
+        "output": 0.5,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2025-04-28",
       "family": "qwen"
     },
@@ -70847,11 +70802,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.2925,
-        "output": 1.4625,
+        "input": 0.07,
+        "output": 0.27,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2025-04",
       "family": "qwen"
     },
@@ -70868,11 +70822,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.29,
-        "output": 1.14,
-        "cacheRead": 0.11,
-        "cacheWrite": 0
-      },
+        "input": 0.24,
+        "output": 0.9,
+        "cacheRead": 0.135,
+        "cacheWrite": 0},
       "releaseDate": "2025-03-24",
       "family": "deepseek"
     },
@@ -71449,11 +71402,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.019,
+        "input": 0.018,
         "output": 0.03,
         "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2024-07-01",
       "family": "mistral-nemo"
     },
