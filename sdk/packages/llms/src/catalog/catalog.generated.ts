@@ -153243,11 +153243,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.185,
-        "output": 1.11,
-        "cacheRead": 0.037,
-        "cacheWrite": 0
-      },
+        "input": 0.2,
+        "output": 1.15,
+        "cacheRead": 0.04,
+        "cacheWrite": 0},
       "releaseDate": "2026-05-29"
     },
     "step-3.5-flash-2603": {
