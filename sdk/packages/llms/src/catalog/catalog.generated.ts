@@ -27417,11 +27417,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2,
-        "output": 1.5,
-        "cacheRead": 0.03,
-        "cacheWrite": 0
-      },
+        "input": 0.09,
+        "output": 0.3,
+        "cacheRead": 0.01,
+        "cacheWrite": 0},
       "releaseDate": "2026-08-14",
       "family": "qwen"
     },
@@ -27483,11 +27482,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.08,
+        "input": 0.07,
         "output": 0.1,
         "cacheRead": 0.003,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-07-31",
       "family": "deepseek-flash"
     },
