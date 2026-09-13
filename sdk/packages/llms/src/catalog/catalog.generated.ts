@@ -90727,8 +90727,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -90741,9 +90741,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.5,
         "output": 7.5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.15,
+        "cacheWrite": 0},
       "releaseDate": "2026-04-29",
       "family": "mistral-medium"
     },
@@ -90758,8 +90757,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -90770,11 +90769,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "input": 0.4,
+        "output": 2,
+        "cacheRead": 0.15,
+        "cacheWrite": 0},
       "releaseDate": "2026-04-29",
       "family": "mistral-medium"
     },
@@ -90788,8 +90786,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "images",
         "tools",
         "reasoning",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "effort",
@@ -90802,9 +90800,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.6,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.015,
+        "cacheWrite": 0},
       "releaseDate": "2026-03-16",
       "family": "mistral-small"
     },
@@ -90963,15 +90960,14 @@ export const GENERATED_PROVIDER_MODELS: {
       "capabilities": [
         "tools",
         "reasoning",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [],
       "pricing": {
         "input": 2,
         "output": 5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.15,
+        "cacheWrite": 0},
       "releaseDate": "2025-03-17",
       "family": "magistral-medium"
     },
@@ -91024,14 +91020,13 @@ export const GENERATED_PROVIDER_MODELS: {
       "capabilities": [
         "images",
         "tools",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
         "input": 0.5,
         "output": 1.5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.05,
+        "cacheWrite": 0},
       "releaseDate": "2024-11-01",
       "family": "mistral-large"
     },
@@ -91044,14 +91039,13 @@ export const GENERATED_PROVIDER_MODELS: {
       "capabilities": [
         "images",
         "tools",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
         "input": 0.5,
         "output": 1.5,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.05,
+        "cacheWrite": 0},
       "releaseDate": "2024-11-01",
       "family": "mistral-large"
     },
@@ -91083,14 +91077,13 @@ export const GENERATED_PROVIDER_MODELS: {
       "maxTokens": 128000,
       "capabilities": [
         "tools",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
         "input": 0.04,
         "output": 0.04,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.01,
+        "cacheWrite": 0},
       "releaseDate": "2024-10-01",
       "family": "ministral"
     },
@@ -91102,14 +91095,13 @@ export const GENERATED_PROVIDER_MODELS: {
       "maxTokens": 128000,
       "capabilities": [
         "tools",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
         "input": 0.1,
         "output": 0.1,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.015,
+        "cacheWrite": 0},
       "releaseDate": "2024-10-01",
       "family": "ministral"
     },
@@ -91160,14 +91152,13 @@ export const GENERATED_PROVIDER_MODELS: {
       "maxTokens": 4096,
       "capabilities": [
         "tools",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "pricing": {
         "input": 0.3,
         "output": 0.9,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "cacheRead": 0.03,
+        "cacheWrite": 0},
       "releaseDate": "2024-05-29",
       "family": "codestral"
     },
