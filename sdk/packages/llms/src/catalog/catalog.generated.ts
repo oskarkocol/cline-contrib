@@ -150908,8 +150908,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "tools",
         "reasoning",
         "structured_output",
-        "temperature"
-      ],
+        "temperature",
+        "prompt-cache"],
       "reasoningOptions": [
         {
           "type": "budget_tokens",
@@ -150918,11 +150918,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.05,
-        "output": 0.45,
-        "cacheRead": 0,
-        "cacheWrite": 0
-      },
+        "input": 0.15,
+        "output": 0.6,
+        "cacheRead": 0.075,
+        "cacheWrite": 0},
       "releaseDate": "2025-08-13",
       "family": "gpt-oss"
     },
