@@ -73322,11 +73322,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.14,
-        "output": 0.58,
-        "cacheRead": 0.035,
-        "cacheWrite": 0
-      },
+        "input": 0.132,
+        "output": 0.528,
+        "cacheRead": 0.033,
+        "cacheWrite": 0},
       "releaseDate": "2026-07-06",
       "family": "Hy"
     },
@@ -74387,11 +74386,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.102,
-        "output": 0.297,
-        "cacheRead": 0.012,
-        "cacheWrite": 0
-      },
+        "input": 0.1,
+        "output": 0.25,
+        "cacheRead": 0.01,
+        "cacheWrite": 0},
       "releaseDate": "2026-04-02",
       "family": "gemma"
     },
