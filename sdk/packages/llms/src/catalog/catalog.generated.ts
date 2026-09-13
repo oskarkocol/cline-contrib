@@ -57865,11 +57865,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.13,
-        "output": 0.28,
-        "cacheRead": 0.03,
-        "cacheWrite": 0
-      },
+        "input": 0.0619,
+        "output": 0.1374,
+        "cacheRead": 0.0055,
+        "cacheWrite": 0},
       "releaseDate": "2026-07-31",
       "family": "deepseek-flash"
     },
@@ -57896,11 +57895,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.71,
-        "output": 2.35,
-        "cacheRead": 0.12,
-        "cacheWrite": 0
-      },
+        "input": 1.0833,
+        "output": 2.8931,
+        "cacheRead": 0.1764,
+        "cacheWrite": 0},
       "releaseDate": "2026-06-13",
       "family": "glm"
     },
@@ -57920,11 +57918,10 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.66,
-        "output": 3.4,
+        "input": 0.7062,
+        "output": 3.21,
         "cacheRead": 0.18,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-06-12",
       "family": "kimi-k2"
     },
@@ -57944,11 +57941,10 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.53,
-        "output": 3.39,
+        "input": 0.5895,
+        "output": 2.45,
         "cacheRead": 0.17,
-        "cacheWrite": 0
-      },
+        "cacheWrite": 0},
       "releaseDate": "2026-04-21",
       "family": "kimi-k2"
     }
