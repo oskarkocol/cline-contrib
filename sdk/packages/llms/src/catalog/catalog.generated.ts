@@ -2438,10 +2438,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.33,
-        "output": 1.32,
-        "cacheRead": 0,
-        "cacheWrite": 0
+        "input": 0.3,
+        "output": 1.2,
+        "cacheRead": 0.03,
+        "cacheWrite": 0.375
       },
       "releaseDate": "2025-10-26"
     },
