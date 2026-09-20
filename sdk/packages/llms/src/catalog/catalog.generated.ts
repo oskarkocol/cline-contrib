@@ -118568,10 +118568,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4,
-        "output": 20,
-        "cacheRead": 0.4,
-        "cacheWrite": 5
+        "input": 2.0,
+        "output": 10.0,
+        "cacheRead": 0.2,
+        "cacheWrite": 2.5
       },
       "releaseDate": "2026-07-09",
       "family": "gpt-sol"
@@ -118714,9 +118714,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 30,
-        "output": 180,
-        "cacheRead": 0,
+        "input": 30.0,
+        "output": 180.0,
+        "cacheRead": 3.0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-23",
