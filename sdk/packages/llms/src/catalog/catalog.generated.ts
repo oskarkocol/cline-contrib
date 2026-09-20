@@ -77556,7 +77556,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.5,
         "output": 1.5,
-        "cacheRead": 0,
+        "cacheRead": 0.05,
         "cacheWrite": 0
       },
       "releaseDate": "2025-12-02",
@@ -79385,9 +79385,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 4,
-        "output": 12,
-        "cacheRead": 0,
+        "input": 0.5,
+        "output": 1.5,
+        "cacheRead": 0.05,
         "cacheWrite": 0
       },
       "releaseDate": "2024-11-01",
@@ -94223,7 +94223,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.5,
         "output": 7.5,
-        "cacheRead": 0,
+        "cacheRead": 0.15,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-29",
@@ -94252,9 +94252,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0,
+        "input": 0.4,
+        "output": 2.0,
+        "cacheRead": 0.15,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-29",
@@ -94284,7 +94284,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.6,
-        "cacheRead": 0,
+        "cacheRead": 0.015,
         "cacheWrite": 0
       },
       "releaseDate": "2026-03-16",
@@ -94314,7 +94314,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.6,
-        "cacheRead": 0,
+        "cacheRead": 0.015,
         "cacheWrite": 0
       },
       "releaseDate": "2026-03-16",
@@ -94449,9 +94449,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 2,
-        "output": 5,
-        "cacheRead": 0,
+        "input": 2.0,
+        "output": 5.0,
+        "cacheRead": 0.15,
         "cacheWrite": 0
       },
       "releaseDate": "2025-03-17",
@@ -94568,9 +94568,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.04,
-        "output": 0.04,
-        "cacheRead": 0,
+        "input": 0.1,
+        "output": 0.1,
+        "cacheRead": 0.01,
         "cacheWrite": 0
       },
       "releaseDate": "2024-10-01",
@@ -94587,9 +94587,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.1,
-        "output": 0.1,
-        "cacheRead": 0,
+        "input": 0.15,
+        "output": 0.15,
+        "cacheRead": 0.015,
         "cacheWrite": 0
       },
       "releaseDate": "2024-10-01",
@@ -94647,7 +94647,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.3,
         "output": 0.9,
-        "cacheRead": 0,
+        "cacheRead": 0.03,
         "cacheWrite": 0
       },
       "releaseDate": "2024-05-29",
