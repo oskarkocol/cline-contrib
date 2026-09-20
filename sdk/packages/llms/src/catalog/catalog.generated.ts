@@ -30986,7 +30986,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.05,
-        "output": 0.2,
+        "output": 0.25,
         "cacheRead": 0.05,
         "cacheWrite": 0
       },
