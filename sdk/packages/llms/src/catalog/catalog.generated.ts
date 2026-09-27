@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1790226966049,
+  version: 1790550312642,
   providers: {
   "302ai": {
     "deepseek-flash": {
@@ -77991,7 +77991,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.9,
         "output": 3,
-        "cacheRead": 0.27,
+        "cacheRead": 0.17,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-13",
@@ -78048,7 +78048,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.7,
         "output": 3.5,
-        "cacheRead": 0.2,
+        "cacheRead": 0.16,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-21",
