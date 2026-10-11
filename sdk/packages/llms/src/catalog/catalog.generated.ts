@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1791434846083,
+  version: 1791759885239,
   providers: {
   "302ai": {
     "claude-sonnet-5-5": {
@@ -27143,7 +27143,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.35,
         "output": 0.75,
-        "cacheRead": 0,
+        "cacheRead": 0.35,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
