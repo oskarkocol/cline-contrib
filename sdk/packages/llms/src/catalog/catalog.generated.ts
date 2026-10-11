@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1791434846083,
+  version: 1791759882277,
   providers: {
   "302ai": {
     "claude-sonnet-5-5": {
@@ -26617,8 +26617,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.29,
-        "output": 0.58,
+        "input": 0.25,
+        "output": 0.5,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -26650,8 +26650,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.46,
-        "output": 3.48,
+        "input": 0.4,
+        "output": 3,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -26735,8 +26735,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.275,
-        "output": 0.55,
+        "input": 0.25,
+        "output": 0.5,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -26768,8 +26768,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.33,
-        "output": 0.33,
+        "input": 0.3,
+        "output": 0.3,
         "cacheRead": 0,
         "cacheWrite": 0
       },
