@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1791434846083,
+  version: 1791759897698,
   providers: {
   "302ai": {
     "claude-sonnet-5-5": {
@@ -64929,9 +64929,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.13,
-        "output": 0.28,
-        "cacheRead": 0.03,
+        "input": 0.1845,
+        "output": 0.6,
+        "cacheRead": 0.027,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-31",
@@ -64960,9 +64960,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.71,
-        "output": 2.35,
-        "cacheRead": 0.12,
+        "input": 1.25,
+        "output": 1.95,
+        "cacheRead": 0.2,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-13",
@@ -64984,8 +64984,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.66,
-        "output": 3.4,
+        "input": 0.6712,
+        "output": 3.35,
         "cacheRead": 0.18,
         "cacheWrite": 0
       },
@@ -65008,9 +65008,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.53,
-        "output": 3.39,
-        "cacheRead": 0.17,
+        "input": 0.4344,
+        "output": 2.45,
+        "cacheRead": 0.1077,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-21",
