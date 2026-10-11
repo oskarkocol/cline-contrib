@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1791434846083,
+  version: 1791759928035,
   providers: {
   "302ai": {
     "claude-sonnet-5-5": {
@@ -194303,9 +194303,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 12,
-        "cacheRead": 0.15,
+        "input": 1500000,
+        "output": 12000000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
@@ -194337,9 +194337,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 12,
-        "cacheRead": 0.15,
+        "input": 1500000,
+        "output": 12000000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
@@ -194371,9 +194371,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 2,
-        "cacheRead": 0.15,
+        "input": 1500000,
+        "output": 2000000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
@@ -194404,9 +194404,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 3,
-        "output": 18.5,
-        "cacheRead": 0.3,
+        "input": 3000000,
+        "output": 18500000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-09",
@@ -194471,9 +194471,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 9.25,
-        "cacheRead": 0.15,
+        "input": 1500000,
+        "output": 9250000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-05-28",
@@ -194506,9 +194506,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.55,
-        "output": 12.2,
-        "cacheRead": 0.155,
+        "input": 1550000,
+        "output": 12200000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-05-19",
@@ -194540,9 +194540,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 6,
-        "cacheRead": 0.15,
+        "input": 1500000,
+        "output": 6000000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-05-01"
@@ -194573,9 +194573,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 12,
-        "cacheRead": 0.15,
+        "input": 1500000,
+        "output": 12000000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-23",
@@ -194608,9 +194608,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.375,
-        "output": 4,
-        "cacheRead": 0.0375,
+        "input": 375000,
+        "output": 4000000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-03-17",
@@ -194643,9 +194643,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.75,
-        "output": 6,
-        "cacheRead": 0.075,
+        "input": 750000,
+        "output": 6000000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-03-05",
@@ -194677,9 +194677,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.9,
-        "output": 5.55,
-        "cacheRead": 0.09,
+        "input": 900000,
+        "output": 5550000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-02-17",
@@ -194711,9 +194711,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.6,
-        "output": 3.7,
-        "cacheRead": 0.06,
+        "input": 600000,
+        "output": 3700000,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2025-10-15",
