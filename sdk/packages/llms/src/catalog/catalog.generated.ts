@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1791434846083,
+  version: 1791759879073,
   providers: {
   "302ai": {
     "claude-sonnet-5-5": {
@@ -19928,7 +19928,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.3,
         "output": 1.2,
-        "cacheRead": 0.03,
+        "cacheRead": 0.007,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-10",
@@ -19960,7 +19960,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.6,
         "output": 2.4,
-        "cacheRead": 0,
+        "cacheRead": 0.014,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-10",
@@ -19992,7 +19992,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.5,
-        "cacheRead": 0,
+        "cacheRead": 0.03,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-26",
@@ -20058,7 +20058,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2.1,
         "output": 6.6,
-        "cacheRead": 0,
+        "cacheRead": 0.21,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-14",
@@ -20090,7 +20090,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.32,
         "output": 3.96,
-        "cacheRead": 0,
+        "cacheRead": 0.132,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-12",
@@ -20196,7 +20196,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 3,
         "output": 15,
-        "cacheRead": 0,
+        "cacheRead": 0.3,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-16",
@@ -20265,7 +20265,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.4,
         "output": 4.4,
-        "cacheRead": 0.3,
+        "cacheRead": 0.14,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-13",
@@ -20588,7 +20588,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.1,
         "output": 0.5,
-        "cacheRead": 0,
+        "cacheRead": 0.1,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
