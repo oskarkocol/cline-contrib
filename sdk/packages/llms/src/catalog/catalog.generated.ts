@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1793574157228,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -196240,8 +196240,8 @@ export const GENERATED_PROVIDER_MODELS: {
           "type": "toggle"
         }
       ],
-      "pricing": {
-        "input": 0.15,
+            "pricing": {
+        "input": 0.13,
         "output": 0.65,
         "cacheRead": 0.002,
         "cacheWrite": 0
@@ -196264,9 +196264,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "reasoningOptions": [],
-      "pricing": {
-        "input": 0.15,
-        "output": 0.5,
+            "pricing": {
+        "input": 0.12,
+        "output": 0.38,
         "cacheRead": 0.02,
         "cacheWrite": 0
       },
@@ -196291,10 +196291,10 @@ export const GENERATED_PROVIDER_MODELS: {
           "type": "toggle"
         }
       ],
-      "pricing": {
-        "input": 0.1,
+            "pricing": {
+        "input": 0.06,
         "output": 0.15,
-        "cacheRead": 0.05,
+        "cacheRead": 0.015,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-25",
@@ -196483,10 +196483,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "reasoningOptions": [],
-      "pricing": {
-        "input": 0.71,
-        "output": 3.5,
-        "cacheRead": 0.15,
+            "pricing": {
+        "input": 0.6,
+        "output": 3,
+        "cacheRead": 0.12,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-12",
@@ -196586,10 +196586,10 @@ export const GENERATED_PROVIDER_MODELS: {
           "type": "toggle"
         }
       ],
-      "pricing": {
-        "input": 0.25,
-        "output": 1.25,
-        "cacheRead": 0.25,
+            "pricing": {
+        "input": 0.09999999999999999,
+        "output": 0.95,
+        "cacheRead": 0.049999999999999996,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-17",
