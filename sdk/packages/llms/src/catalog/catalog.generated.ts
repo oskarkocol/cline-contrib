@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1793574128535,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -25890,11 +25890,11 @@ export const GENERATED_PROVIDER_MODELS: {
           "min": 1024
         }
       ],
-      "pricing": {
-        "input": 3.3,
-        "output": 16.5,
-        "cacheRead": 0.33,
-        "cacheWrite": 4.125
+            "pricing": {
+        "input": 3,
+        "output": 15,
+        "cacheRead": 0.3,
+        "cacheWrite": 3.75
       },
       "releaseDate": "2026-02-17",
       "family": "claude-sonnet"
@@ -26190,11 +26190,11 @@ export const GENERATED_PROVIDER_MODELS: {
           "min": 1024
         }
       ],
-      "pricing": {
-        "input": 5.5,
-        "output": 27.5,
-        "cacheRead": 0.55,
-        "cacheWrite": 6.875
+            "pricing": {
+        "input": 5,
+        "output": 25,
+        "cacheRead": 0.5,
+        "cacheWrite": 6.25
       },
       "releaseDate": "2026-02-05",
       "family": "claude-opus"
@@ -26464,11 +26464,11 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.33,
-        "output": 2.75,
-        "cacheRead": 0.0825,
-        "cacheWrite": 0.33
+            "pricing": {
+        "input": 0.3,
+        "output": 2.5,
+        "cacheRead": 0,
+        "cacheWrite": 0
       },
       "releaseDate": "2025-12-02",
       "family": "nova"
@@ -27366,9 +27366,9 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
+            "pricing": {
         "input": 0.07,
-        "output": 0.3,
+        "output": 0.15,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -27557,11 +27557,11 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature",
         "prompt-cache"
       ],
-      "pricing": {
+            "pricing": {
         "input": 0.06,
         "output": 0.24,
-        "cacheRead": 0.015,
-        "cacheWrite": 0.06
+        "cacheRead": 0,
+        "cacheWrite": 0
       },
       "releaseDate": "2024-12-03",
       "family": "nova-lite"
@@ -27577,11 +27577,11 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature",
         "prompt-cache"
       ],
-      "pricing": {
+            "pricing": {
         "input": 0.035,
         "output": 0.14,
-        "cacheRead": 0.00875,
-        "cacheWrite": 0.035
+        "cacheRead": 0,
+        "cacheWrite": 0
       },
       "releaseDate": "2024-12-03",
       "family": "nova-micro"
@@ -27600,11 +27600,11 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature",
         "prompt-cache"
       ],
-      "pricing": {
-        "input": 0.8,
-        "output": 3.2,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.8
+            "pricing": {
+        "input": 0.7999999999999999,
+        "output": 3.1999999999999997,
+        "cacheRead": 0,
+        "cacheWrite": 0
       },
       "releaseDate": "2024-12-03",
       "family": "nova-pro"
