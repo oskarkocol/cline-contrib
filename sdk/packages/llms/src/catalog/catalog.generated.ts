@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1793574136686,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -69653,10 +69653,10 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.15,
-        "output": 0.55,
-        "cacheRead": 0.05,
+            "pricing": {
+        "input": 0.19,
+        "output": 0.6,
+        "cacheRead": 0.06,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-26",
@@ -69685,10 +69685,10 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.6,
-        "output": 2.8,
-        "cacheRead": 0.12,
+            "pricing": {
+        "input": 1.4,
+        "output": 2.64,
+        "cacheRead": 0.14,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-14",
@@ -69716,9 +69716,9 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.11,
-        "output": 0.4125,
+            "pricing": {
+        "input": 0.13,
+        "output": 0.49500000000000005,
         "cacheRead": 0.027,
         "cacheWrite": 0
       },
@@ -69747,9 +69747,9 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.99,
-        "output": 2.88,
+            "pricing": {
+        "input": 1.4,
+        "output": 4.4,
         "cacheRead": 0.16,
         "cacheWrite": 0
       },
@@ -69771,9 +69771,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "reasoningOptions": [],
-      "pricing": {
-        "input": 0.6712,
-        "output": 3.35,
+            "pricing": {
+        "input": 0.6,
+        "output": 3.5,
         "cacheRead": 0.15,
         "cacheWrite": 0
       },
@@ -69795,10 +69795,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "reasoningOptions": [],
-      "pricing": {
-        "input": 0.603,
-        "output": 3.2,
-        "cacheRead": 0.126,
+            "pricing": {
+        "input": 0.6825,
+        "output": 3.5,
+        "cacheRead": 0.1365,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-20",
