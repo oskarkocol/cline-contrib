@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1793574144958,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -106561,10 +106561,10 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 1.36,
-        "output": 4.18,
-        "cacheRead": 0.14,
+            "pricing": {
+        "input": 0.7,
+        "output": 2.0999999999999996,
+        "cacheRead": 0.07,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-06",
