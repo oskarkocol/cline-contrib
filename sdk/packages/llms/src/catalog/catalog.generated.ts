@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1793574153206,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -175309,10 +175309,10 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 1.04613,
-        "output": 2.98895,
-        "cacheRead": 0.10461,
+            "pricing": {
+        "input": 1,
+        "output": 2.7,
+        "cacheRead": 0.09999999999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-16"
@@ -175342,10 +175342,10 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.20175,
-        "output": 1.21052,
-        "cacheRead": 0.04035,
+            "pricing": {
+        "input": 0.19999999999999998,
+        "output": 1.15,
+        "cacheRead": 0.04,
         "cacheWrite": 0
       },
       "releaseDate": "2026-05-29"
@@ -175372,10 +175372,10 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.10461,
-        "output": 0.31384,
-        "cacheRead": 0.02092,
+            "pricing": {
+        "input": 0.09999999999999999,
+        "output": 0.3,
+        "cacheRead": 0.02,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-02",
@@ -175403,10 +175403,10 @@ export const GENERATED_PROVIDER_MODELS: {
           ]
         }
       ],
-      "pricing": {
-        "input": 0.10461,
-        "output": 0.31384,
-        "cacheRead": 0.02092,
+            "pricing": {
+        "input": 0.09999999999999999,
+        "output": 0.3,
+        "cacheRead": 0.02,
         "cacheWrite": 0
       },
       "releaseDate": "2026-01-29",
