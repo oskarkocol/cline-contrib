@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1794179165584,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -196241,7 +196241,7 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.15,
+        "input": 0.13,
         "output": 0.65,
         "cacheRead": 0.002,
         "cacheWrite": 0
@@ -196265,8 +196265,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.15,
-        "output": 0.5,
+        "input": 0.12,
+        "output": 0.38,
         "cacheRead": 0.02,
         "cacheWrite": 0
       },
@@ -196292,9 +196292,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
+        "input": 0.06,
         "output": 0.15,
-        "cacheRead": 0.05,
+        "cacheRead": 0.015,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-25",
@@ -196352,8 +196352,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.2,
-        "output": 4,
+        "input": 0.75,
+        "output": 3,
         "cacheRead": 0.19,
         "cacheWrite": 0
       },
@@ -196434,8 +196434,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.13,
-        "output": 0.28,
-        "cacheRead": 0.07,
+        "output": 0.27,
+        "cacheRead": 0.049999999999999996,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-31",
@@ -196484,9 +196484,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.71,
-        "output": 3.5,
-        "cacheRead": 0.15,
+        "input": 0.6,
+        "output": 3,
+        "cacheRead": 0.12,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-12",
@@ -196587,9 +196587,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.25,
-        "output": 1.25,
-        "cacheRead": 0.25,
+        "input": 0.09999999999999999,
+        "output": 0.8899999999999999,
+        "cacheRead": 0.035,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-17",
@@ -196664,9 +196664,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.55,
-        "output": 1.65,
-        "cacheRead": 0.55,
+        "input": 0.5,
+        "output": 1.5,
+        "cacheRead": 0.19999999999999998,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-21",
