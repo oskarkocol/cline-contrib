@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1794783784420,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -29115,7 +29115,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.039,
         "output": 1.25,
-        "cacheRead": 0.003899999999999999,
+        "cacheRead": 0.0038999900000000003,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-14",
@@ -29142,7 +29142,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.44,
         "output": 1.32,
-        "cacheRead": 0.04399999999999999,
+        "cacheRead": 0.04399999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-31",
@@ -29171,7 +29171,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.85,
         "output": 9.5,
-        "cacheRead": 0.18499999999999997,
+        "cacheRead": 0.18499999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-16",
@@ -29198,7 +29198,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.25,
         "output": 3.95,
-        "cacheRead": 0.12499999999999997,
+        "cacheRead": 0.12499999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-13",
@@ -29226,7 +29226,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.25,
         "output": 2,
-        "cacheRead": 0.024999999999999994,
+        "cacheRead": 0.02499999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-22",
@@ -29253,9 +29253,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.45,
-        "output": 1.95,
-        "cacheRead": 0.04499999999999999,
+        "input": 0.39,
+        "output": 1.7999999999999998,
+        "cacheRead": 0.038999990000000005,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-20",
@@ -29280,9 +29280,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.98,
-        "output": 3.08,
-        "cacheRead": 0.09799999999999998,
+        "input": 0.8999999999999999,
+        "output": 2.9000000000000004,
+        "cacheRead": 0.08999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-07",
@@ -29310,7 +29310,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.12,
         "output": 0.37,
-        "cacheRead": 0.011999999999999997,
+        "cacheRead": 0.01199999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-02",
@@ -29336,9 +29336,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.45,
+        "input": 0.44999999999999996,
         "output": 3,
-        "cacheRead": 0.04499999999999999,
+        "cacheRead": 0.044999990000000004,
         "cacheWrite": 0
       },
       "releaseDate": "2026-02-15",
@@ -29365,7 +29365,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1,
         "output": 1,
-        "cacheRead": 0.09999999999999998,
+        "cacheRead": 0.09999999,
         "cacheWrite": 0
       },
       "releaseDate": "2025-12-01",
