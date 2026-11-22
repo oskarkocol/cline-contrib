@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388643622,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -193866,10 +193866,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.04368,
+        "input": 0.056784,
         "output": 0.7,
-        "cacheRead": 0.0024,
-        "cacheWrite": 0.04368
+        "cacheRead": 0.00312,
+        "cacheWrite": 0.056784
       },
       "releaseDate": "2026-10-17",
       "family": "deepseek-flash"
@@ -195680,7 +195680,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.35,
         "output": 0.75,
-        "cacheRead": 0,
+        "cacheRead": 0.315,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
@@ -195709,9 +195709,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.07,
+        "input": 0.19999999999999998,
         "output": 0.3,
-        "cacheRead": 0,
+        "cacheRead": 0.18,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
