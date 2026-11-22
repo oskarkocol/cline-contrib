@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388579959,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -32784,7 +32784,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.106,
         "output": 0.53,
         "cacheRead": 0.0106,
-        "cacheWrite": 0.1325
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-07",
       "family": "claude-haiku"
@@ -32854,7 +32854,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 2.12,
         "output": 10.6,
         "cacheRead": 0.106,
-        "cacheWrite": 2.65
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-28",
       "family": "claude-sonnet"
@@ -32889,7 +32889,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 4.24,
         "output": 21.2,
         "cacheRead": 0.212,
-        "cacheWrite": 5.3
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-22",
       "family": "claude-opus"
@@ -33043,7 +33043,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 10.6,
         "output": 53,
         "cacheRead": 0.265,
-        "cacheWrite": 13.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-01",
       "family": "claude-fable"
@@ -33190,7 +33190,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 2.12,
         "output": 10.6,
         "cacheRead": 0.212,
-        "cacheWrite": 2.65
+        "cacheWrite": 0
       },
       "releaseDate": "2026-06-30",
       "family": "claude-sonnet"
@@ -33225,7 +33225,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 10.6,
         "output": 53,
         "cacheRead": 1.06,
-        "cacheWrite": 13.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-06-09",
       "family": "claude-fable"
@@ -33261,7 +33261,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5.3,
         "output": 26.5,
         "cacheRead": 0.53,
-        "cacheWrite": 6.625
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-28",
       "family": "claude-opus"
@@ -33384,7 +33384,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 3.18,
         "output": 15.9,
         "cacheRead": 0.318,
-        "cacheWrite": 3.975
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-17",
       "family": "claude-sonnet"
@@ -33424,7 +33424,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5.3,
         "output": 26.5,
         "cacheRead": 0.53,
-        "cacheWrite": 6.625
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-05",
       "family": "claude-opus"
@@ -33493,7 +33493,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 1.06,
         "output": 5.3,
         "cacheRead": 0.106,
-        "cacheWrite": 1.325
+        "cacheWrite": 0
       },
       "releaseDate": "2025-10-15",
       "family": "claude-haiku"
