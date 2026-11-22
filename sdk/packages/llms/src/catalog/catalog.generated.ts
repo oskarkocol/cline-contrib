@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388635650,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -172187,7 +172187,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 1.5,
         "output": 4.5,
         "cacheRead": 0.075,
-        "cacheWrite": 1.875
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-16",
       "family": "qwen-max",
@@ -172538,10 +172538,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
+        "input": 0.09999999999999999,
         "output": 0.5,
         "cacheRead": 0.01,
-        "cacheWrite": 0.125
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-22",
       "family": "gpt-luna",
@@ -173056,10 +173056,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2,
+        "input": 0.19999999999999998,
         "output": 1.2,
         "cacheRead": 0.02,
-        "cacheWrite": 0.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
       "family": "gpt-luna",
