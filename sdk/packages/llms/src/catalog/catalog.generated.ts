@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388641636,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -193359,9 +193359,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.21120372,
-        "output": 0.63477162,
-        "cacheRead": 0.0058023,
+        "input": 0.21032727,
+        "output": 0.63213747,
+        "cacheRead": 0.005778220000000001,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-10",
@@ -193394,9 +193394,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1044414,
-        "output": 0.36438444,
-        "cacheRead": 0.01856736,
+        "input": 0.10400799000000001,
+        "output": 0.36287233,
+        "cacheRead": 0.01849031,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-26",
@@ -193431,9 +193431,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1044414,
-        "output": 0.41660514,
-        "cacheRead": 0.04177656,
+        "input": 0.10400799000000001,
+        "output": 0.41487633,
+        "cacheRead": 0.04160319,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-14",
@@ -193465,9 +193465,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.116046,
-        "output": 0.58023,
-        "cacheRead": 0,
+        "input": 0.11556443,
+        "output": 0.57782219,
+        "cacheRead": 0.11556443,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-02",
@@ -193499,9 +193499,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.232092,
-        "output": 0.406161,
-        "cacheRead": 0,
+        "input": 0.23112887000000001,
+        "output": 0.40447553,
+        "cacheRead": 0.23112887000000001,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-02",
@@ -193534,9 +193534,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.088416,
-        "output": 0.44208,
-        "cacheRead": 0,
+        "input": 0.08804909000000001,
+        "output": 0.44024548,
+        "cacheRead": 0.08804909000000001,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
@@ -193569,9 +193569,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.044208,
-        "output": 0.16578,
-        "cacheRead": 0,
+        "input": 0.04402454,
+        "output": 0.16509205,
+        "cacheRead": 0.04402454,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
