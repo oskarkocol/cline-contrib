@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388604765,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -86374,9 +86374,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.6,
-        "output": 8,
-        "cacheRead": 0.08,
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-13",
@@ -86410,10 +86410,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.05,
-        "output": 0.25,
-        "cacheRead": 0.005,
-        "cacheWrite": 0.0625
+        "input": 0.09999999999999999,
+        "output": 0.5,
+        "cacheRead": 0.01,
+        "cacheWrite": 0.125
       },
       "releaseDate": "2026-10-07",
       "family": "claude-haiku"
@@ -86443,10 +86443,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.6,
-        "output": 8,
-        "cacheRead": 0.08,
-        "cacheWrite": 2
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 2.5
       },
       "releaseDate": "2026-09-29",
       "family": "gpt-sol"
@@ -86477,10 +86477,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1,
-        "output": 5,
-        "cacheRead": 0.05,
-        "cacheWrite": 1.25
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 2.5
       },
       "releaseDate": "2026-09-28",
       "family": "claude-sonnet"
@@ -86511,10 +86511,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2,
-        "output": 10,
-        "cacheRead": 0.1,
-        "cacheWrite": 2.5
+        "input": 4,
+        "output": 20,
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 5
       },
       "releaseDate": "2026-09-22",
       "family": "claude-opus"
@@ -86548,10 +86548,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.08,
-        "output": 0.4,
-        "cacheRead": 0.008,
-        "cacheWrite": 0.1
+        "input": 0.09999999999999999,
+        "output": 0.5,
+        "cacheRead": 0.01,
+        "cacheWrite": 0.125
       },
       "releaseDate": "2026-09-22",
       "family": "gpt-luna"
@@ -86645,10 +86645,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 8,
-        "output": 40,
-        "cacheRead": 0.8,
-        "cacheWrite": 10
+        "input": 10,
+        "output": 50,
+        "cacheRead": 1,
+        "cacheWrite": 12.5
       },
       "releaseDate": "2026-09-04",
       "family": "gpt-astra"
@@ -86678,9 +86678,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.6,
-        "output": 3,
-        "cacheRead": 0.06,
+        "input": 0.75,
+        "output": 3.75,
+        "cacheRead": 0.075,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
@@ -86712,10 +86712,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 5,
-        "output": 25,
-        "cacheRead": 0.125,
-        "cacheWrite": 6.25
+        "input": 10,
+        "output": 50,
+        "cacheRead": 0.25,
+        "cacheWrite": 12.5
       },
       "releaseDate": "2026-09-01",
       "family": "claude-fable"
