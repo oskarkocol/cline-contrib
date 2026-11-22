@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388606643,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -87659,7 +87659,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5,
         "output": 25,
         "cacheRead": 0.5,
-        "cacheWrite": 6.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-05",
       "family": "claude-opus"
@@ -87892,9 +87892,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.6625,
-        "output": 13.3,
-        "cacheRead": 0.1662,
+        "input": 1.6624999999999999,
+        "output": 13.299999999999999,
+        "cacheRead": 0.1663,
         "cacheWrite": 0
       },
       "releaseDate": "2025-12-11",
@@ -87996,7 +87996,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 4.75,
         "output": 23.75,
         "cacheRead": 0.475,
-        "cacheWrite": 5.9375
+        "cacheWrite": 0
       },
       "releaseDate": "2025-11-24",
       "family": "claude-opus"
@@ -88073,7 +88073,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.1875,
         "output": 9.5,
-        "cacheRead": 0.1187,
+        "cacheRead": 0.1188,
         "cacheWrite": 0
       },
       "releaseDate": "2025-11-13",
@@ -88105,7 +88105,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.1875,
         "output": 9.5,
-        "cacheRead": 0.1187,
+        "cacheRead": 0.1188,
         "cacheWrite": 0
       },
       "releaseDate": "2025-11-13",
@@ -88138,7 +88138,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.1875,
         "output": 9.5,
-        "cacheRead": 0.1187,
+        "cacheRead": 0.1188,
         "cacheWrite": 0
       },
       "releaseDate": "2025-11-13",
@@ -88170,7 +88170,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.2375,
         "output": 1.9,
-        "cacheRead": 0.0237,
+        "cacheRead": 0.0238,
         "cacheWrite": 0
       },
       "releaseDate": "2025-11-13",
@@ -88199,8 +88199,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1,
         "output": 5,
-        "cacheRead": 0.1,
-        "cacheWrite": 1.25
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2025-10-15",
       "family": "claude-haiku"
@@ -88258,7 +88258,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 3,
         "output": 15,
         "cacheRead": 0.3,
-        "cacheWrite": 3.75
+        "cacheWrite": 0
       },
       "releaseDate": "2025-09-29",
       "family": "claude-sonnet"
@@ -88289,7 +88289,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.1875,
         "output": 9.5,
-        "cacheRead": 0.1187,
+        "cacheRead": 0.1188,
         "cacheWrite": 0
       },
       "releaseDate": "2025-09-15",
@@ -88453,7 +88453,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.2375,
         "output": 1.9,
-        "cacheRead": 0.0237,
+        "cacheRead": 0.0238,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-07",
@@ -88486,7 +88486,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.0475,
         "output": 0.38,
-        "cacheRead": 0.0047,
+        "cacheRead": 0.0048,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-07",
