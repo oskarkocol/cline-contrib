@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388591459,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -51268,7 +51268,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 3,
         "output": 15,
         "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-18",
       "family": "gemini",
@@ -51314,8 +51314,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 8,
         "output": 40,
-        "cacheRead": 0.4,
-        "cacheWrite": 10
+        "cacheRead": 0.39999999999999997,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-17",
       "family": "gpt-astra"
@@ -51349,8 +51349,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.1,
-        "cacheWrite": 2.5
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-17",
       "family": "gpt-sol"
@@ -51382,10 +51382,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 4.5,
-        "cacheRead": 0.075,
-        "cacheWrite": 1.875
+        "input": 0.975,
+        "output": 2.925,
+        "cacheRead": 0.04875,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-16",
       "family": "qwen-max"
@@ -51420,7 +51420,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 1.5,
         "output": 7.5,
         "cacheRead": 0.075,
-        "cacheWrite": 0.083333
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-12",
       "family": "gemini",
@@ -51463,10 +51463,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4,
-        "output": 20,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-10",
       "family": "gemini",
@@ -51512,8 +51512,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 8,
         "output": 40,
-        "cacheRead": 0.2,
-        "cacheWrite": 10
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-09",
       "family": "claude-fable"
@@ -51547,8 +51547,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 8,
         "output": 40,
-        "cacheRead": 0.2,
-        "cacheWrite": 10
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-11-09",
       "family": "claude-fable"
@@ -51790,8 +51790,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1,
         "output": 5,
-        "cacheRead": 0.05,
-        "cacheWrite": 1.25
+        "cacheRead": 0.049999999999999996,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-26",
       "family": "gpt-terra"
@@ -51823,8 +51823,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.2,
-        "cacheWrite": 2
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-23",
       "family": "kimi-pro"
@@ -51993,7 +51993,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.08,
-        "output": 0.605,
+        "output": 0.60499999,
         "cacheRead": 0.0055,
         "cacheWrite": 0
       },
@@ -52060,9 +52060,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.15,
-        "output": 0.6,
-        "cacheRead": 0.003,
+        "input": 0.09749999,
+        "output": 0.38999998999999996,
+        "cacheRead": 0.0019500000000000001,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-17",
@@ -52094,9 +52094,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.6594,
-        "output": 1.9782,
-        "cacheRead": 0.13188,
+        "input": 0.65940007,
+        "output": 1.9782002300000001,
+        "cacheRead": 0.13188001,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-17",
@@ -52346,10 +52346,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4,
-        "output": 20,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-13",
       "family": "gemini",
@@ -52392,10 +52392,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4,
-        "output": 20,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-13",
       "family": "gemini",
@@ -52438,10 +52438,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4,
-        "output": 20,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-13",
       "family": "gemini",
@@ -52484,10 +52484,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4.4,
-        "output": 22,
-        "cacheRead": 0.22,
-        "cacheWrite": 0.4125
+        "input": 2.2,
+        "output": 11,
+        "cacheRead": 0.11,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-13",
       "family": "gemini",
@@ -52530,10 +52530,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4.4,
-        "output": 22,
-        "cacheRead": 0.22,
-        "cacheWrite": 0.4125
+        "input": 2.2,
+        "output": 11,
+        "cacheRead": 0.11,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-13",
       "family": "gemini",
@@ -52576,10 +52576,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 4,
-        "output": 20,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "input": 2,
+        "output": 10,
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-13",
       "family": "gemini",
@@ -52661,10 +52661,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
+        "input": 0.09999999999999999,
         "output": 0.5,
         "cacheRead": 0.01,
-        "cacheWrite": 0.125
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-07",
       "family": "claude-haiku"
@@ -52697,10 +52697,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
+        "input": 0.09999999999999999,
         "output": 0.5,
         "cacheRead": 0.01,
-        "cacheWrite": 0.125
+        "cacheWrite": 0
       },
       "releaseDate": "2026-10-07",
       "family": "claude-haiku"
@@ -52802,8 +52802,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.1,
-        "cacheWrite": 2.5
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-29",
       "family": "gpt-sol"
@@ -52837,8 +52837,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.1,
-        "cacheWrite": 2.5
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-28",
       "family": "claude-sonnet"
@@ -52872,8 +52872,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.1,
-        "cacheWrite": 2.5
+        "cacheRead": 0.09999999999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-28",
       "family": "claude-sonnet"
@@ -52907,8 +52907,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 4,
         "output": 20,
-        "cacheRead": 0.2,
-        "cacheWrite": 5
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-22",
       "family": "claude-opus"
@@ -52942,8 +52942,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 4,
         "output": 20,
-        "cacheRead": 0.2,
-        "cacheWrite": 5
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-22",
       "family": "claude-opus"
@@ -53011,10 +53011,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1,
+        "input": 0.09999999999999999,
         "output": 0.5,
         "cacheRead": 0.01,
-        "cacheWrite": 0.125
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-22",
       "family": "gpt-luna"
@@ -53050,8 +53050,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.2,
-        "cacheWrite": 2.5
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-22",
       "family": "gpt-sol"
@@ -53152,8 +53152,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.15,
-        "output": 0.47,
+        "input": 0.09749999,
+        "output": 0.30549999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -53344,8 +53344,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.24178,
-        "output": 1.2089,
+        "input": 0.24178002,
+        "output": 1.2089001400000001,
         "cacheRead": 0.012089,
         "cacheWrite": 0
       },
@@ -53378,9 +53378,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.15,
-        "output": 0.6,
-        "cacheRead": 0.003,
+        "input": 0.09749999,
+        "output": 0.38999998999999996,
+        "cacheRead": 0.0019500000000000001,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-10",
@@ -53412,9 +53412,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.669,
-        "output": 2.007,
-        "cacheRead": 0.1338,
+        "input": 0.66899998,
+        "output": 2.00699996,
+        "cacheRead": 0.13379999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-10",
@@ -53552,7 +53552,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 10,
         "output": 50,
         "cacheRead": 1,
-        "cacheWrite": 12.5
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-04",
       "family": "gpt-astra"
@@ -53587,7 +53587,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 10,
         "output": 50,
         "cacheRead": 1,
-        "cacheWrite": 12.5
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-04",
       "family": "gpt-astra"
@@ -53619,10 +53619,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "input": 0.75,
+        "output": 3.75,
+        "cacheRead": 0.075,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
       "family": "gemini-flash",
@@ -53666,10 +53666,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "input": 0.75,
+        "output": 3.75,
+        "cacheRead": 0.075,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
       "family": "gemini-flash",
@@ -53750,10 +53750,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2,
-        "output": 6,
-        "cacheRead": 0.25,
-        "cacheWrite": 2.5
+        "input": 1.3,
+        "output": 3.9,
+        "cacheRead": 0.16249998999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
       "family": "qwen-max"
@@ -53785,10 +53785,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "input": 0.75,
+        "output": 3.75,
+        "cacheRead": 0.075,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
       "family": "gemini-flash",
@@ -53832,10 +53832,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
-        "output": 8.25,
-        "cacheRead": 0.165,
-        "cacheWrite": 0.091667
+        "input": 0.8250000000000001,
+        "output": 4.125,
+        "cacheRead": 0.0825,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
       "family": "gemini-flash",
@@ -53879,10 +53879,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
-        "output": 8.25,
-        "cacheRead": 0.165,
-        "cacheWrite": 0.091667
+        "input": 0.8250000000000001,
+        "output": 4.125,
+        "cacheRead": 0.0825,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
       "family": "gemini-flash",
@@ -53926,10 +53926,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "input": 0.75,
+        "output": 3.75,
+        "cacheRead": 0.075,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-02",
       "family": "gemini-flash",
@@ -53976,7 +53976,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 10,
         "output": 50,
         "cacheRead": 0.25,
-        "cacheWrite": 12.5
+        "cacheWrite": 0
       },
       "releaseDate": "2026-09-01",
       "family": "claude-fable"
@@ -54007,7 +54007,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.834,
         "output": 2.501,
-        "cacheRead": 0.042,
+        "cacheRead": 0.04199999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-28",
@@ -54072,10 +54072,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.15,
-        "output": 0.47,
-        "cacheRead": 0.016,
-        "cacheWrite": 0.2
+        "input": 0.09749999,
+        "output": 0.30549999,
+        "cacheRead": 0.010400000000000001,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-26",
       "family": "qwen-flash"
@@ -54204,10 +54204,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.5,
-        "output": 3,
-        "cacheRead": 0.1,
-        "cacheWrite": 0.625
+        "input": 0.32499998999999996,
+        "output": 1.95,
+        "cacheRead": 0.065,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-14",
       "family": "qwen"
@@ -54269,9 +54269,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.3,
-        "output": 2.6,
-        "cacheRead": 0.1,
+        "input": 1.29999999,
+        "output": 2.5999999899999997,
+        "cacheRead": 0.09999999999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-13",
@@ -54304,10 +54304,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "input": 0.75,
+        "output": 3.75,
+        "cacheRead": 0.075,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-13",
       "family": "gemini-flash",
@@ -54382,9 +54382,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.66,
-        "output": 1.98,
-        "cacheRead": 0.066,
+        "input": 0.429,
+        "output": 1.287,
+        "cacheRead": 0.0429,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-13",
@@ -54415,8 +54415,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.66,
-        "output": 1.98,
+        "input": 0.65999999,
+        "output": 1.9800000000000002,
         "cacheRead": 0.022,
         "cacheWrite": 0
       },
@@ -54482,8 +54482,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 1.32,
-        "output": 3.96,
-        "cacheRead": 0.13,
+        "output": 3.9600000000000004,
+        "cacheRead": 0.12999998999999998,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-13",
@@ -54516,10 +54516,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.5,
-        "output": 7.5,
-        "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "input": 0.75,
+        "output": 3.75,
+        "cacheRead": 0.075,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-13",
       "family": "gemini-flash",
@@ -54563,10 +54563,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
-        "output": 8.25,
-        "cacheRead": 0.165,
-        "cacheWrite": 0.091667
+        "input": 0.8250000000000001,
+        "output": 4.125,
+        "cacheRead": 0.0825,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-13",
       "family": "gemini-flash",
@@ -54610,10 +54610,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
-        "output": 8.25,
-        "cacheRead": 0.165,
-        "cacheWrite": 0.091667
+        "input": 0.8250000000000001,
+        "output": 4.125,
+        "cacheRead": 0.0825,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-13",
       "family": "gemini-flash",
@@ -54653,10 +54653,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2,
-        "output": 6,
-        "cacheRead": 0.25,
-        "cacheWrite": 2.5
+        "input": 1.3,
+        "output": 3.9,
+        "cacheRead": 0.16249998999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-12",
       "family": "qwen"
@@ -54724,7 +54724,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.3,
         "output": 1.2,
-        "cacheRead": 0.04,
+        "cacheRead": 0.03999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-10",
@@ -54861,10 +54861,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2,
-        "output": 6,
-        "cacheRead": 0.25,
-        "cacheWrite": 2.5
+        "input": 1.3,
+        "output": 3.9,
+        "cacheRead": 0.16249998999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-08-03",
       "family": "qwen-max"
@@ -55026,8 +55026,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.15386,
-        "output": 0.38465,
+        "input": 0.15386001000000002,
+        "output": 0.38465003999999997,
         "cacheRead": 0.04396,
         "cacheWrite": 0
       },
@@ -55058,9 +55058,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.22,
-        "output": 0.66,
-        "cacheRead": 0.022,
+        "input": 0.143,
+        "output": 0.429,
+        "cacheRead": 0.0143,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-31",
@@ -55091,9 +55091,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.4396,
-        "output": 0.8792,
-        "cacheRead": 0.08792,
+        "input": 0.43960005,
+        "output": 0.8792001,
+        "cacheRead": 0.08792001,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-31",
@@ -55124,8 +55124,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.28,
-        "output": 0.56,
+        "input": 0.27999999,
+        "output": 0.55999999,
         "cacheRead": 0.07,
         "cacheWrite": 0
       },
@@ -55193,9 +55193,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.45,
+        "input": 0.44999999999999996,
         "output": 1.2,
-        "cacheRead": 0.1,
+        "cacheRead": 0.09999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-30",
@@ -55289,7 +55289,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5,
         "output": 25,
         "cacheRead": 0.5,
-        "cacheWrite": 6.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-24",
       "family": "claude-opus"
@@ -55325,7 +55325,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.3,
         "output": 2.5,
         "cacheRead": 0.03,
-        "cacheWrite": 0.083333
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash-lite",
@@ -55373,7 +55373,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.75,
         "output": 3.75,
         "cacheRead": 0.075,
-        "cacheWrite": 0.041667
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash",
@@ -55421,7 +55421,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.3,
         "output": 2.5,
         "cacheRead": 0.03,
-        "cacheWrite": 0.083333
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash-lite",
@@ -55466,10 +55466,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.33,
+        "input": 0.32999998999999997,
         "output": 2.75,
-        "cacheRead": 0.033,
-        "cacheWrite": 0.091667
+        "cacheRead": 0.032999999999999995,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash-lite",
@@ -55514,10 +55514,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.33,
+        "input": 0.32999998999999997,
         "output": 2.75,
-        "cacheRead": 0.033,
-        "cacheWrite": 0.091667
+        "cacheRead": 0.032999999999999995,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash-lite",
@@ -55565,7 +55565,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.75,
         "output": 3.75,
         "cacheRead": 0.075,
-        "cacheWrite": 0.041667
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash",
@@ -55610,10 +55610,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.825,
+        "input": 0.8250000000000001,
         "output": 4.125,
         "cacheRead": 0.0825,
-        "cacheWrite": 0.045833
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash",
@@ -55658,10 +55658,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.825,
+        "input": 0.8250000000000001,
         "output": 4.125,
         "cacheRead": 0.0825,
-        "cacheWrite": 0.045833
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-21",
       "family": "gemini-flash",
@@ -55706,7 +55706,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 3,
         "output": 15,
         "cacheRead": 0.3,
-        "cacheWrite": 3
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-16",
       "family": "kimi"
@@ -55868,10 +55868,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2,
+        "input": 0.19999999999999998,
         "output": 1.2,
         "cacheRead": 0.02,
-        "cacheWrite": 0.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
       "family": "gpt-luna"
@@ -55907,8 +55907,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 4,
         "output": 20,
-        "cacheRead": 0.4,
-        "cacheWrite": 5
+        "cacheRead": 0.39999999999999997,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
       "family": "gpt-sol"
@@ -55944,8 +55944,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 12,
-        "cacheRead": 0.2,
-        "cacheWrite": 2.5
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
       "family": "gpt-terra"
@@ -55979,10 +55979,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2,
+        "input": 0.19999999999999998,
         "output": 1.2,
         "cacheRead": 0.02,
-        "cacheWrite": 0.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
       "family": "gpt-luna"
@@ -56018,8 +56018,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 4,
         "output": 20,
-        "cacheRead": 0.4,
-        "cacheWrite": 5
+        "cacheRead": 0.39999999999999997,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-07-09",
       "family": "gpt-sol"
@@ -56153,8 +56153,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.2,
-        "cacheWrite": 2.5
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-06-30",
       "family": "claude-sonnet"
@@ -56208,7 +56208,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.95,
         "output": 4,
-        "cacheRead": 0.19,
+        "cacheRead": 0.18999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-12",
@@ -56230,9 +56230,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 1.9,
+        "input": 1.89999999,
         "output": 8,
-        "cacheRead": 0.38,
+        "cacheRead": 0.37999998999999995,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-12",
@@ -56268,7 +56268,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 10,
         "output": 50,
         "cacheRead": 1,
-        "cacheWrite": 12.5
+        "cacheWrite": 0
       },
       "releaseDate": "2026-06-09",
       "family": "claude-fable"
@@ -56457,7 +56457,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5,
         "output": 25,
         "cacheRead": 0.5,
-        "cacheWrite": 6.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-28",
       "family": "claude-opus"
@@ -56493,7 +56493,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 1.5,
         "output": 9,
         "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-19",
       "family": "gemini-flash",
@@ -56541,7 +56541,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 1.5,
         "output": 9,
         "cacheRead": 0.15,
-        "cacheWrite": 0.083333
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-19",
       "family": "gemini-flash",
@@ -56586,10 +56586,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
+        "input": 1.6500000000000001,
         "output": 9.9,
-        "cacheRead": 0.165,
-        "cacheWrite": 0.091667
+        "cacheRead": 0.16499998999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-19",
       "family": "gemini-flash",
@@ -56634,10 +56634,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
+        "input": 1.6500000000000001,
         "output": 9.9,
-        "cacheRead": 0.165,
-        "cacheWrite": 0.091667
+        "cacheRead": 0.16499998999999999,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-19",
       "family": "gemini-flash",
@@ -56684,8 +56684,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.25,
         "output": 1.5,
-        "cacheRead": 0.025,
-        "cacheWrite": 0.083333
+        "cacheRead": 0.024999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-07",
       "family": "gemini-flash-lite",
@@ -56732,8 +56732,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.25,
         "output": 1.5,
-        "cacheRead": 0.025,
-        "cacheWrite": 0.083333
+        "cacheRead": 0.024999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-07",
       "family": "gemini-flash-lite",
@@ -56779,9 +56779,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.275,
-        "output": 1.65,
+        "output": 1.6500000000000001,
         "cacheRead": 0.0275,
-        "cacheWrite": 0.091667
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-07",
       "family": "gemini-flash-lite",
@@ -56827,9 +56827,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.275,
-        "output": 1.65,
+        "output": 1.6500000000000001,
         "cacheRead": 0.0275,
-        "cacheWrite": 0.091667
+        "cacheWrite": 0
       },
       "releaseDate": "2026-05-07",
       "family": "gemini-flash-lite",
@@ -56904,9 +56904,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
+        "input": 1.6500000000000001,
         "output": 8.25,
-        "cacheRead": 0.165,
+        "cacheRead": 0.16499998999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-30",
@@ -56968,9 +56968,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
+        "input": 1.6500000000000001,
         "output": 8.25,
-        "cacheRead": 0.165,
+        "cacheRead": 0.16499998999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-29",
@@ -57032,9 +57032,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
+        "input": 1.6500000000000001,
         "output": 8.25,
-        "cacheRead": 0.165,
+        "cacheRead": 0.16499998999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-29",
@@ -57097,8 +57097,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.66,
-        "output": 1.98,
+        "input": 0.65999999,
+        "output": 1.9800000000000002,
         "cacheRead": 0.022,
         "cacheWrite": 0
       },
@@ -57263,7 +57263,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5,
         "output": 25,
         "cacheRead": 0.5,
-        "cacheWrite": 6.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-04-16",
       "family": "claude-opus"
@@ -57344,7 +57344,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.2,
         "output": 4,
-        "cacheRead": 0.24,
+        "cacheRead": 0.23999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-01",
@@ -57500,9 +57500,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.165,
-        "output": 0.66,
-        "cacheRead": 0.0165,
+        "input": 0.16499998999999999,
+        "output": 0.65999999,
+        "cacheRead": 0.016499999999999997,
         "cacheWrite": 0
       },
       "releaseDate": "2026-03-16",
@@ -57564,9 +57564,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.165,
-        "output": 0.66,
-        "cacheRead": 0.0165,
+        "input": 0.16499998999999999,
+        "output": 0.65999999,
+        "cacheRead": 0.016499999999999997,
         "cacheWrite": 0
       },
       "releaseDate": "2026-03-16",
@@ -57588,7 +57588,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.2,
         "output": 4,
-        "cacheRead": 0.24,
+        "cacheRead": 0.23999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-03-16",
@@ -57801,8 +57801,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.25,
         "output": 1.5,
-        "cacheRead": 0.025,
-        "cacheWrite": 0.083333
+        "cacheRead": 0.024999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-03-03",
       "family": "gemini-flash-lite",
@@ -57848,8 +57848,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 12,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-19",
       "family": "gemini-pro",
@@ -57895,8 +57895,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 12,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-19",
       "family": "gemini-pro",
@@ -57942,8 +57942,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 12,
-        "cacheRead": 0.2,
-        "cacheWrite": 0.375
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-19",
       "family": "gemini-pro",
@@ -57990,7 +57990,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 3,
         "output": 15,
         "cacheRead": 0.3,
-        "cacheWrite": 3.75
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-17",
       "family": "claude-sonnet"
@@ -58021,8 +58021,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.5,
-        "output": 3,
-        "cacheRead": 0.1,
+        "output": 2.9999999899999996,
+        "cacheRead": 0.09999999999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2026-02-14",
@@ -58102,7 +58102,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5,
         "output": 25,
         "cacheRead": 0.5,
-        "cacheWrite": 6.25
+        "cacheWrite": 0
       },
       "releaseDate": "2026-02-05",
       "family": "claude-opus"
@@ -58175,8 +58175,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.16485,
-        "output": 0.8792,
+        "input": 0.16485001000000002,
+        "output": 0.8792001,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -58208,7 +58208,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.09,
         "output": 0.3,
-        "cacheRead": 0.02,
+        "cacheRead": 0.019999990000000002,
         "cacheWrite": 0
       },
       "releaseDate": "2026-01-29",
@@ -58340,8 +58340,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.0605,
-        "output": 0.4,
+        "input": 0.06049999,
+        "output": 0.39999999999999997,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -58466,8 +58466,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.5,
         "output": 3,
-        "cacheRead": 0.05,
-        "cacheWrite": 0.083333
+        "cacheRead": 0.049999999999999996,
+        "cacheWrite": 0
       },
       "releaseDate": "2025-12-17",
       "family": "gemini-flash",
@@ -58514,8 +58514,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.5,
         "output": 3,
-        "cacheRead": 0.05,
-        "cacheWrite": 0.083333
+        "cacheRead": 0.049999999999999996,
+        "cacheWrite": 0
       },
       "releaseDate": "2025-12-17",
       "family": "gemini-flash",
@@ -58738,8 +58738,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.3297,
-        "output": 0.4396,
+        "input": 0.32970003,
+        "output": 0.43960005,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -58910,9 +58910,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.165,
-        "output": 0.165,
-        "cacheRead": 0.0165,
+        "input": 0.16499998999999999,
+        "output": 0.16499998999999999,
+        "cacheRead": 0.016499999999999997,
         "cacheWrite": 0
       },
       "releaseDate": "2025-12-02",
@@ -59013,7 +59013,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5,
         "output": 25,
         "cacheRead": 0.5,
-        "cacheWrite": 6.25
+        "cacheWrite": 0
       },
       "releaseDate": "2025-11-24",
       "family": "claude-opus"
@@ -59047,7 +59047,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 5,
         "output": 25,
         "cacheRead": 0.5,
-        "cacheWrite": 6.25
+        "cacheWrite": 0
       },
       "releaseDate": "2025-11-24",
       "family": "claude-opus"
@@ -59409,8 +59409,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 1.2,
-        "output": 6,
-        "cacheRead": 0.24,
+        "output": 5.99999999,
+        "cacheRead": 0.23999999,
         "cacheWrite": 0
       },
       "releaseDate": "2025-09-23",
@@ -59430,8 +59430,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.2,
-        "output": 0.88,
+        "input": 0.19999999999999998,
+        "output": 0.87999999,
         "cacheRead": 0.11,
         "cacheWrite": 0
       },
@@ -59454,7 +59454,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.15,
         "output": 1.2,
         "cacheRead": 0.015,
-        "cacheWrite": 0.15
+        "cacheWrite": 0
       },
       "releaseDate": "2025-09",
       "family": "qwen"
@@ -59475,7 +59475,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.15,
         "output": 1.2,
         "cacheRead": 0.015,
-        "cacheWrite": 0.15
+        "cacheWrite": 0
       },
       "releaseDate": "2025-09",
       "family": "qwen"
@@ -59773,7 +59773,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.15,
         "output": 0.6,
         "cacheRead": 0.015,
-        "cacheWrite": 0.15
+        "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
       "family": "gpt-oss"
@@ -59805,7 +59805,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.15,
         "output": 0.6,
         "cacheRead": 0.015,
-        "cacheWrite": 0.15
+        "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
       "family": "gpt-oss"
@@ -59837,7 +59837,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.07,
         "output": 0.3,
         "cacheRead": 0.007,
-        "cacheWrite": 0.07
+        "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
       "family": "gpt-oss"
@@ -59869,7 +59869,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.07,
         "output": 0.3,
         "cacheRead": 0.007,
-        "cacheWrite": 0.07
+        "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
       "family": "gpt-oss"
@@ -59931,7 +59931,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.03,
-        "output": 0.14,
+        "output": 0.13999999,
         "cacheRead": 0.015,
         "cacheWrite": 0
       },
@@ -60153,8 +60153,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2198,
-        "output": 0.7693,
+        "input": 0.21980001999999998,
+        "output": 0.76930009,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -60248,8 +60248,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.16485,
-        "output": 0.71435,
+        "input": 0.16485001000000002,
+        "output": 0.71435008,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -60373,8 +60373,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.16485,
-        "output": 0.6594,
+        "input": 0.16485001000000002,
+        "output": 0.65940007,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -60436,8 +60436,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2198,
-        "output": 0.71435,
+        "input": 0.21980001999999998,
+        "output": 0.71435008,
         "cacheRead": 0.03297,
         "cacheWrite": 0
       },
@@ -60477,8 +60477,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.2245,
-        "output": 0.898,
+        "input": 0.22449989,
+        "output": 0.8979995900000001,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -60521,9 +60521,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.33,
-        "output": 0.99,
-        "cacheRead": 0.033,
+        "input": 0.32999998999999997,
+        "output": 0.9900000000000001,
+        "cacheRead": 0.032999999999999995,
         "cacheWrite": 0
       },
       "releaseDate": "2025-07-30",
@@ -60562,10 +60562,10 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.3,
-        "output": 1.5,
-        "cacheRead": 0.06,
-        "cacheWrite": 0.375
+        "input": 0.19499999,
+        "output": 0.975,
+        "cacheRead": 0.039,
+        "cacheWrite": 0
       },
       "releaseDate": "2025-07-28",
       "family": "qwen-coder-flash"
@@ -60585,9 +60585,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.23,
+        "input": 0.22999999000000002,
         "output": 2.3,
-        "cacheRead": 0.2,
+        "cacheRead": 0.19999999999999998,
         "cacheWrite": 0
       },
       "releaseDate": "2025-07-25",
@@ -60666,8 +60666,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.9891,
-        "output": 2.9673,
+        "input": 0.98910011,
+        "output": 2.9673003500000004,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -60707,8 +60707,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.82425,
-        "output": 2.47275,
+        "input": 0.82425009,
+        "output": 2.47275029,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -60959,7 +60959,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "reasoningOptions": [],
       "pricing": {
         "input": 0.5,
-        "output": 2.15,
+        "output": 2.14999999,
         "cacheRead": 0.35,
         "cacheWrite": 0
       },
@@ -60981,9 +60981,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.66,
+        "input": 0.65999999,
         "output": 2.6,
-        "cacheRead": 0.165,
+        "cacheRead": 0.16499998999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2025-05-28",
@@ -61027,9 +61027,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.484,
+        "input": 0.48399999,
         "output": 2.42,
-        "cacheRead": 0.0484,
+        "cacheRead": 0.048400000000000006,
         "cacheWrite": 0
       },
       "releaseDate": "2025-05-07",
@@ -61277,8 +61277,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.351,
-        "output": 0.555,
+        "input": 0.35099999000000004,
+        "output": 0.5549999999999999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61341,9 +61341,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.65,
+        "input": 1.6500000000000001,
         "output": 8.25,
-        "cacheRead": 0.165,
+        "cacheRead": 0.16499998999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2025-03-17",
@@ -61382,7 +61382,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.09,
-        "output": 0.29,
+        "output": 0.28999999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61403,7 +61403,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.09,
-        "output": 0.29,
+        "output": 0.28999999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61423,8 +61423,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.23,
-        "output": 0.38,
+        "input": 0.22999999000000002,
+        "output": 0.37999998999999995,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61444,8 +61444,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.23,
-        "output": 0.38,
+        "input": 0.22999999000000002,
+        "output": 0.37999998999999995,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61588,8 +61588,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.287125,
-        "output": 0.57425,
+        "input": 0.28712497000000003,
+        "output": 0.5742499400000001,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61720,8 +61720,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 1.2089,
-        "output": 1.2089,
+        "input": 1.2089001400000001,
+        "output": 1.2089001400000001,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61740,8 +61740,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.71435,
-        "output": 0.71435,
+        "input": 0.71435008,
+        "output": 0.71435008,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61760,8 +61760,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.9891,
-        "output": 0.9891,
+        "input": 0.98910011,
+        "output": 0.98910011,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -61785,7 +61785,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.06,
-        "output": 0.24,
+        "output": 0.23999999,
         "cacheRead": 0.01625,
         "cacheWrite": 0
       },
@@ -61809,7 +61809,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.06,
-        "output": 0.24,
+        "output": 0.23999999,
         "cacheRead": 0.01625,
         "cacheWrite": 0
       },
@@ -61830,7 +61830,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.035,
-        "output": 0.14,
+        "output": 0.13999999,
         "cacheRead": 0.011,
         "cacheWrite": 0
       },
@@ -61851,7 +61851,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.035,
-        "output": 0.14,
+        "output": 0.13999999,
         "cacheRead": 0.011,
         "cacheWrite": 0
       },
@@ -62237,9 +62237,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.33,
-        "output": 0.99,
-        "cacheRead": 0.033,
+        "input": 0.32999998999999997,
+        "output": 0.9900000000000001,
+        "cacheRead": 0.032999999999999995,
         "cacheWrite": 0
       },
       "releaseDate": "2024-05-29",
@@ -62280,8 +62280,8 @@ export const GENERATED_PROVIDER_MODELS: {
         "temperature"
       ],
       "pricing": {
-        "input": 0.48,
-        "output": 0.48,
+        "input": 0.47999999000000004,
+        "output": 0.47999999000000004,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -62300,9 +62300,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 1.6,
-        "output": 6.4,
-        "cacheRead": 0.32,
+        "input": 1.04,
+        "output": 4.16,
+        "cacheRead": 0.20800000000000002,
         "cacheWrite": 0
       },
       "releaseDate": "2024-04-03",
