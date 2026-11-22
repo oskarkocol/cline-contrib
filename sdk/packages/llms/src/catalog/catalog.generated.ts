@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388649201,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -204511,9 +204511,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.1029,
-        "output": 0.3087,
-        "cacheRead": 0.003087,
-        "cacheWrite": 0
+        "output": 0.30870000000000003,
+        "cacheRead": 0.0030870000000000003,
+        "cacheWrite": 0.1029
       },
       "releaseDate": "2026-10-17",
       "family": "deepseek-flash",
@@ -204547,10 +204547,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.147,
+        "input": 0.14700000000000002,
         "output": 0.441,
-        "cacheRead": 0.00441,
-        "cacheWrite": 0
+        "cacheRead": 0.00289905,
+        "cacheWrite": 0.14700000000000002
       },
       "releaseDate": "2026-09-10",
       "family": "deepseek-flash",
@@ -204577,10 +204577,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.11865,
+        "input": 0.11864999999999999,
         "output": 0.4011,
-        "cacheRead": 0.014805,
-        "cacheWrite": 0
+        "cacheRead": 0.012655650000000001,
+        "cacheWrite": 0.11864999999999999
       },
       "releaseDate": "2026-08-26",
       "family": "qwen-flash",
@@ -204613,10 +204613,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1575,
-        "output": 0.525,
-        "cacheRead": 0.0315,
-        "cacheWrite": 0
+        "input": 0.105525,
+        "output": 0.35175,
+        "cacheRead": 0.021105,
+        "cacheWrite": 0.105525
       },
       "releaseDate": "2026-08-26",
       "family": "glm-flash",
@@ -204650,8 +204650,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.590625,
         "output": 2.625,
-        "cacheRead": 0.13125,
-        "cacheWrite": 0
+        "cacheRead": 0.0792183,
+        "cacheWrite": 0.590625
       },
       "releaseDate": "2026-08-14",
       "family": "glm",
@@ -204682,7 +204682,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.7875,
         "output": 3.675,
         "cacheRead": 0.1575,
-        "cacheWrite": 0
+        "cacheWrite": 0.7875
       },
       "releaseDate": "2026-04-20",
       "family": "kimi",
@@ -204712,7 +204712,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.273,
         "output": 0.399,
         "cacheRead": 0.1365,
-        "cacheWrite": 0
+        "cacheWrite": 0.273
       },
       "releaseDate": "2025-12-01",
       "family": "deepseek",
@@ -204738,7 +204738,7 @@ export const GENERATED_PROVIDER_MODELS: {
         "input": 0.03885,
         "output": 0.1785,
         "cacheRead": 0.0058275,
-        "cacheWrite": 0
+        "cacheWrite": 0.03885
       },
       "releaseDate": "2025-08-05",
       "family": "gpt-oss",
@@ -204760,9 +204760,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.315,
-        "output": 1.05,
+        "output": 1.0499999999999998,
         "cacheRead": 0.105,
-        "cacheWrite": 0
+        "cacheWrite": 0.315
       },
       "releaseDate": "2025-07-22",
       "family": "qwen-coder"
@@ -204781,8 +204781,8 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.0945,
         "output": 0.5775,
-        "cacheRead": 0,
-        "cacheWrite": 0
+        "cacheRead": 0.0945,
+        "cacheWrite": 0.0945
       },
       "releaseDate": "2025-07-21",
       "family": "qwen"
@@ -204800,9 +204800,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.105,
-        "output": 0.336,
-        "cacheRead": 0,
-        "cacheWrite": 0
+        "output": 0.33599999999999997,
+        "cacheRead": 0.105,
+        "cacheWrite": 0.105
       },
       "releaseDate": "2024-12-06",
       "family": "llama"
