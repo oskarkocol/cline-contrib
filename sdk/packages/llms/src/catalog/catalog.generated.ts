@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388666571,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -222226,7 +222226,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 2,
         "output": 10,
-        "cacheRead": 0.2,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-23",
@@ -222265,7 +222265,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.6,
-        "cacheRead": 0.028,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-17",
@@ -222304,7 +222304,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.6,
-        "cacheRead": 0.028,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-17",
@@ -222343,7 +222343,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.6,
-        "cacheRead": 0.028,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-17",
@@ -222382,7 +222382,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.15,
         "output": 0.6,
-        "cacheRead": 0.028,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-17",
@@ -222417,7 +222417,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 1.4,
         "output": 4.4,
-        "cacheRead": 0.26,
+        "cacheRead": 0,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-14",
