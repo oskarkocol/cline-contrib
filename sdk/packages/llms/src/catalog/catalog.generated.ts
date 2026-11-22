@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388647345,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -203901,8 +203901,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.275,
-        "output": 1.1,
+        "input": 0.12,
+        "output": 0.7,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -203951,8 +203951,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.1,
-        "output": 0.1,
+        "input": 0.1875,
+        "output": 0.9375,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -204026,8 +204026,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.348,
-        "output": 0.696,
+        "input": 0.18,
+        "output": 0.3,
         "cacheRead": 0,
         "cacheWrite": 0
       },
