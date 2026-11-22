@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388658701,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -218448,8 +218448,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.1909,
+        "output": 0.1909,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218486,8 +218486,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 1.65809999,
+        "output": 1.65809999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218518,8 +218518,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.3198,
+        "output": 0.3198,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218551,8 +218551,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.6224999999999999,
+        "output": 0.6224999999999999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218583,8 +218583,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.3447,
+        "output": 0.3447,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218616,8 +218616,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 1.4596,
+        "output": 1.4596,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218649,8 +218649,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.6926,
+        "output": 0.6926,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218681,8 +218681,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.1131,
+        "output": 0.1131,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218719,8 +218719,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 1.6361999999999999,
+        "output": 1.6361999999999999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218752,8 +218752,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.13599999,
+        "output": 0.13599999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218785,8 +218785,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.0364,
+        "output": 0.0364,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218823,8 +218823,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 1.5565,
+        "output": 1.5565,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218856,8 +218856,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.11619999,
+        "output": 0.11619999,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218889,8 +218889,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.0288,
+        "output": 0.0288,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218927,8 +218927,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 1.6780000000000002,
+        "output": 1.6780000000000002,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218960,8 +218960,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.0997,
+        "output": 0.0997,
         "cacheRead": 0,
         "cacheWrite": 0
       },
@@ -218993,8 +218993,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0,
-        "output": 0,
+        "input": 0.0295,
+        "output": 0.0295,
         "cacheRead": 0,
         "cacheWrite": 0
       },
