@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388595350,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -67066,8 +67066,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 2,
-        "output": 10,
-        "cacheRead": 0.2,
+        "output": 9.99999999,
+        "cacheRead": 0.19999999999999998,
         "cacheWrite": 0
       },
       "releaseDate": "2026-10-23",
@@ -67296,7 +67296,7 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.25,
+        "input": 1.24999999,
         "output": 4.25,
         "cacheRead": 0.15,
         "cacheWrite": 0
@@ -67334,7 +67334,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 3,
-        "output": 15,
+        "output": 14.999999990000001,
         "cacheRead": 0.3,
         "cacheWrite": 0
       },
@@ -67372,9 +67372,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.3,
-        "output": 1.2,
-        "cacheRead": 0.006,
+        "input": 0.22,
+        "output": 0.66,
+        "cacheRead": 0.007,
         "cacheWrite": 0
       },
       "releaseDate": "2026-09-10",
@@ -67553,8 +67553,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 2.1,
-        "output": 6.6,
+        "input": 2.0999999999999996,
+        "output": 6.59999999,
         "cacheRead": 0.39,
         "cacheWrite": 0
       },
@@ -67802,7 +67802,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 3,
-        "output": 15,
+        "output": 14.999999990000001,
         "cacheRead": 0.3,
         "cacheWrite": 0
       },
@@ -67880,8 +67880,8 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 4.5,
-        "output": 22.5,
-        "cacheRead": 0.45,
+        "output": 22.499999990000003,
+        "cacheRead": 0.44999999999999996,
         "cacheWrite": 0
       },
       "releaseDate": "2026-07-16",
