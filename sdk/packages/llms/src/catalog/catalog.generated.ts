@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1792982675343,
+  version: 1794179144685,
   providers: {
   "302ai": {
     "gemini-4-argon": {
@@ -69654,9 +69654,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.15,
-        "output": 0.55,
-        "cacheRead": 0.05,
+        "input": 0.175,
+        "output": 0.44999999999999996,
+        "cacheRead": 0.04,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-26",
@@ -69686,9 +69686,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.6,
-        "output": 2.8,
-        "cacheRead": 0.12,
+        "input": 1,
+        "output": 4.8999999999999995,
+        "cacheRead": 0.14,
         "cacheWrite": 0
       },
       "releaseDate": "2026-08-14",
@@ -69717,8 +69717,8 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.11,
-        "output": 0.4125,
+        "input": 0.13,
+        "output": 0.49500000000000005,
         "cacheRead": 0.027,
         "cacheWrite": 0
       },
@@ -69748,9 +69748,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.99,
-        "output": 2.88,
-        "cacheRead": 0.16,
+        "input": 1.4,
+        "output": 4.4,
+        "cacheRead": 0.19,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-13",
@@ -69772,9 +69772,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.6712,
-        "output": 3.35,
-        "cacheRead": 0.15,
+        "input": 0.6,
+        "output": 3.5,
+        "cacheRead": 0.16,
         "cacheWrite": 0
       },
       "releaseDate": "2026-06-12",
@@ -69796,9 +69796,9 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "reasoningOptions": [],
       "pricing": {
-        "input": 0.603,
-        "output": 3.2,
-        "cacheRead": 0.126,
+        "input": 0.7995,
+        "output": 3.75,
+        "cacheRead": 0.156,
         "cacheWrite": 0
       },
       "releaseDate": "2026-04-20",
