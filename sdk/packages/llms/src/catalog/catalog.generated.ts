@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388602924,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -86028,9 +86028,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.52,
-        "output": 2.0375,
-        "cacheRead": 0.26,
+        "input": 0.496,
+        "output": 1.95,
+        "cacheRead": 0.248,
         "cacheWrite": 0
       },
       "releaseDate": "2025-09-30",
@@ -86048,9 +86048,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.57,
+        "input": 0.56999999,
         "output": 2.3,
-        "cacheRead": 0.285,
+        "cacheRead": 0.28499999,
         "cacheWrite": 0
       },
       "releaseDate": "2025-09-05",
@@ -86068,9 +86068,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.11875,
-        "output": 1.2625,
-        "cacheRead": 0.059375,
+        "input": 0.09925,
+        "output": 1.1824999900000002,
+        "cacheRead": 0.049625,
         "cacheWrite": 0
       },
       "releaseDate": "2025-09",
@@ -86099,9 +86099,9 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.188,
-        "output": 0.7,
-        "cacheRead": 0.094,
+        "input": 0.16799999999999998,
+        "output": 0.63,
+        "cacheRead": 0.08399999999999999,
         "cacheWrite": 0
       },
       "releaseDate": "2025-08-05",
@@ -86131,7 +86131,7 @@ export const GENERATED_PROVIDER_MODELS: {
       ],
       "pricing": {
         "input": 0.055,
-        "output": 0.194,
+        "output": 0.176,
         "cacheRead": 0.0275,
         "cacheWrite": 0
       },
@@ -86150,9 +86150,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.46125,
-        "output": 2.29375,
-        "cacheRead": 0.230625,
+        "input": 0.32499998999999996,
+        "output": 1.25,
+        "cacheRead": 0.16249998999999998,
         "cacheWrite": 0
       },
       "releaseDate": "2025-07-22",
@@ -86174,7 +86174,7 @@ export const GENERATED_PROVIDER_MODELS: {
       "pricing": {
         "input": 0.523667,
         "output": 2.205333,
-        "cacheRead": 0.261834,
+        "cacheRead": 0.26183398999999996,
         "cacheWrite": 0
       },
       "releaseDate": "2025-05-28",
@@ -86193,9 +86193,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.26875,
-        "output": 0.82625,
-        "cacheRead": 0.134375,
+        "input": 0.35,
+        "output": 1.0750000000000002,
+        "cacheRead": 0.175,
         "cacheWrite": 0
       },
       "releaseDate": "2025-04-05",
@@ -86213,9 +86213,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.5466,
-        "output": 1.0226,
-        "cacheRead": 0.2733,
+        "input": 0.47859999000000003,
+        "output": 1.0946,
+        "cacheRead": 0.23929999,
         "cacheWrite": 0
       },
       "releaseDate": "2024-12-06",
@@ -86233,9 +86233,9 @@ export const GENERATED_PROVIDER_MODELS: {
         "prompt-cache"
       ],
       "pricing": {
-        "input": 0.0514,
-        "output": 0.082,
-        "cacheRead": 0.0257,
+        "input": 0.05675,
+        "output": 0.06,
+        "cacheRead": 0.028375,
         "cacheWrite": 0
       },
       "releaseDate": "2024-07-18",
