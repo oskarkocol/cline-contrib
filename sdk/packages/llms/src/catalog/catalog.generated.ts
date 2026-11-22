@@ -14,7 +14,7 @@ export const GENERATED_PROVIDER_MODELS: {
   version: number
   providers: Record<string, Record<string, ModelInfo>>
 } = {
-  version: 1795235933717,
+  version: 1795388614534,
   providers: {
   "302ai": {
     "kimi-k3.1-pro": {
@@ -105320,10 +105320,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2907,
-        "output": 1.1508,
-        "cacheRead": 0.0303,
-        "cacheWrite": 0
+        "input": 0.2908584,
+        "output": 1.1513145,
+        "cacheRead": 0.03029775,
+        "cacheWrite": 0.2908584
       },
       "releaseDate": "2026-10-19",
       "family": "minimax-m-flash"
@@ -105356,10 +105356,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.2907,
-        "output": 1.2114,
-        "cacheRead": 0.0182,
-        "cacheWrite": 0
+        "input": 0.2908584,
+        "output": 1.21191,
+        "cacheRead": 0.01817865,
+        "cacheWrite": 0.2908584
       },
       "releaseDate": "2026-10-17",
       "family": "deepseek-flash"
@@ -105385,10 +105385,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.848,
-        "output": 1.696,
-        "cacheRead": 0.0121,
-        "cacheWrite": 0
+        "input": 0.848337,
+        "output": 1.696674,
+        "cacheRead": 0.012119099999999999,
+        "cacheWrite": 0.848337
       },
       "releaseDate": "2026-09-22",
       "family": "mimo-pro",
@@ -105432,10 +105432,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.3029,
-        "output": 1.2114,
-        "cacheRead": 0.0606,
-        "cacheWrite": 0
+        "input": 0.3029775,
+        "output": 1.21191,
+        "cacheRead": 0.0605955,
+        "cacheWrite": 0.3029775
       },
       "releaseDate": "2026-09-10",
       "family": "deepseek-flash"
@@ -105466,10 +105466,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1575,
-        "output": 0.533,
-        "cacheRead": 0.0303,
-        "cacheWrite": 0
+        "input": 0.1575483,
+        "output": 0.5332404000000001,
+        "cacheRead": 0.03029775,
+        "cacheWrite": 0.1575483
       },
       "releaseDate": "2026-08-26",
       "family": "glm-flash"
@@ -105502,10 +105502,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.5088,
-        "output": 3.0285,
-        "cacheRead": 0.0969,
-        "cacheWrite": 0
+        "input": 0.5090022,
+        "output": 3.0297750000000003,
+        "cacheRead": 0.09695279999999999,
+        "cacheWrite": 0.5090022
       },
       "releaseDate": "2026-08-14",
       "family": "qwen"
@@ -105534,10 +105534,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 1.696,
-        "output": 5.3302,
-        "cacheRead": 0.3029,
-        "cacheWrite": 0
+        "input": 1.696674,
+        "output": 5.332404,
+        "cacheRead": 0.3029775,
+        "cacheWrite": 1.696674
       },
       "releaseDate": "2026-08-14",
       "family": "glm"
@@ -105569,10 +105569,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.4361,
-        "output": 1.3325,
-        "cacheRead": 0.0848,
-        "cacheWrite": 0
+        "input": 0.4362876,
+        "output": 1.333101,
+        "cacheRead": 0.0848337,
+        "cacheWrite": 0.4362876
       },
       "releaseDate": "2026-07-31",
       "family": "deepseek-flash"
@@ -105596,10 +105596,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.3392,
-        "output": 2.0594,
-        "cacheRead": 0.0727,
-        "cacheWrite": 0
+        "input": 0.3393348,
+        "output": 2.060247,
+        "cacheRead": 0.0727146,
+        "cacheWrite": 0.3393348
       },
       "releaseDate": "2026-04-17",
       "family": "qwen"
@@ -105628,10 +105628,10 @@ export const GENERATED_PROVIDER_MODELS: {
         }
       ],
       "pricing": {
-        "input": 0.1575,
-        "output": 0.6057,
-        "cacheRead": 0.0485,
-        "cacheWrite": 0
+        "input": 0.1575483,
+        "output": 0.605955,
+        "cacheRead": 0.048476399999999996,
+        "cacheWrite": 0.1575483
       },
       "releaseDate": "2025-08-05",
       "family": "gpt-oss"
